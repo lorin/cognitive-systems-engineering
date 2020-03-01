@@ -19,3 +19,4 @@
 * [Cognitive Systems Engineering](https://www.researchgate.net/publication/289866961_Cognitive_Systems_Engineering)
 * [Joint Cognitive Systems: Patterns in Cognitive Systems Engineering]
 * [Joint Cognitive Systems: Foundations of Cognitive Systems Engineering]
+* [Paradigms for Intelligent Decision Support](https://www.researchgate.net/publication/247102153_Paradigms_for_Intelligent_Decision_Support)
