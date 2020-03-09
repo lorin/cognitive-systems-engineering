@@ -1,26 +1,81 @@
 # Cognitive Systems Engineering
 
+This page lists resesarch papers in the field of cognitive systems engineering. 
 
-## Erik Hollnagel
+Many cogntive engineering researchers went on to do work in the field of
+resilience engineering. See <http://resiliencepapers.club> for resilience
+engineering papers.
 
-* [Joint Cognitive Systems: Foundations of Cognitive Systems Engineering]
-* [Joint Cognitive Systems: Patterns in Cognitive Systems Engineering]
-* [Cognitive Systems Engineering: New wine in new bottles] ([TWRR](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-cognitive-systems-engineering-new-wine-in-new-bottles-issue-32-175912))
+Some papers have a ([TWRR](http://resilienceroundup.com)) link next to them. This
+stands for Thai Wood's [Resilience Roundup](http://resilienceroundup.com). Thai publishes a newsletter that
+summarizes resilience engineering papers.
 
-[Joint Cognitive Systems: Foundations of Cognitive Systems Engineering]: https://smile.amazon.com/Joint-Cognitive-Systems-Foundations-Engineering-dp-0367864207/dp/0367864207/ref=mt_paperback?_encoding=UTF8&me=&qid=1582608275
-[Joint Cognitive Systems: Patterns in Cognitive Systems Engineering]: https://smile.amazon.com/Joint-Cognitive-Systems-Patterns-Engineering/dp/0849339332/ref=pd_sbs_14_1/135-1214741-1856166?_encoding=UTF8&pd_rd_i=0849339332&pd_rd_r=fe9cf229-85cd-41ef-8fb8-87d000870d49&pd_rd_w=Lk1Ho&pd_rd_wg=TP0Or&pf_rd_p=7cd8f929-4345-4bf2-a554-7d7588b3dd5f&pf_rd_r=M59WTR5BFV71D8A9H2R5&psc=1&refRID=M59WTR5BFV71D8A9H2R5
+## Publications
 
-## Jens Rasmussen
+* [Cognitive Systems Engineering: New wine in new bottles], Hollnagel, Woods, 1982 ([TWRR](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-cognitive-systems-engineering-new-wine-in-new-bottles-issue-32-175912))
+* [Ironies of automation], Bainbridge, 1983 ([TWRR](https://resilienceroundup.com/issues/35/))
+* [Cognitive Systems Engineering](https://www.researchgate.net/publication/289866961_Cognitive_Systems_Engineering), Woods, Roth, 1988
+* [Information processing and human-machine interaction: an approach to cognitive engineering](https://www.amazon.com/Information-Processing-Human-Machine-Interaction-North-Holland/dp/0444009876), Rasmussen, 1986
+* [Paradigms for Intelligent Decision Support](https://www.researchgate.net/publication/247102153_Paradigms_for_Intelligent_Decision_Support), David 1986
+* [Cognitive systems engineering](https://www.amazon.com/Cognitive-Systems-Engineering-Jens-Rasmussen/dp/0471011983), Rasmussen, Pejtersen, Goodstein, 1994
+* [Cognitive work analysis: toward safe, productive, and healthy computer-baed work](https://www.amazon.com/Cognitive-Work-Analysis-Productive-Computer-Based/dp/0805823972), Vicente, 1999
+* [A rose by any other name...would probably be given an acronym], Hoffman, Feltovich, Ford, Woods, 2002
+* [Work-Centered Design: A Cognitive Systems Engineering Approach To System Design](https://www.researchgate.net/publication/285542028_Work-Centered_Design_A_Cognitive_Systems_Engineering_Approach_To_System_Design), Eggleston, 2003
+* [Macrocognition](https://pdfs.semanticscholar.org/a021/62b27a52c8f4986227875a8fe5099117dc77.pdf), Klein, Ross, Moon, Klein, Hoffman, Hollnagel, 2003
+* [Common Ground and Coordination in Joint Activity](http://jeffreymbradshaw.net/publications/Common_Ground_Single.pdf), Klein, Feltovich, Bradshaw, Woods, 2004.
+* [Ten challenges for making automation a team player] ([TWRR](https://resilienceroundup.com/issues/66))
+* [Joint Cognitive Systems: Foundations of Cognitive Systems Engineering], Hollnagel, Woods, 2005
+* [Joint Cognitive Systems: Patterns in Cognitive Systems Engineering], Woods, Hollnagel, 2006
+* [Working minds: a practitioner's guide to cognitive task analysis](https://www.amazon.com/Working-Minds-Practitioners-Cognitive-Analysis/dp/0262532816), Crandall, Klein, Hoffman, 2006
+* [The role of cognitive systems engineering in the systems engineering design process](https://doi.org/10.1002/sys.20147), Militello, Dominguez, Lintern, Klein, 2009.
 
-* [Information processing and human-machine interaction: an approach to cognitive engineering](https://www.amazon.com/Information-Processing-Human-Machine-Interaction-North-Holland/dp/0444009876)
+## People
+
+* Lisanne Bainbridge
+* Jeffrey Bradshaw
+* Beth Crandall
+* Cynthia Dominguez
+* Robert Eggleston
+* Paul Feltovich
+* Kenneth Ford
+* L.P. Goodstein
+* Robert Hoffman
+* Erik Hollnagel
+* Devorah Klein
+* Gary Klein
+* Gavan Lintern
+* Laura Militello
+* Brian Moon
+* Annelise Mark Pejtersen
+* Jens Rasmussen
+* Karol Ross
+* Emilie Roth
+* Kim Vicente
+* David Woods
+
+## Terms
+
+* joint cognitive systems
+* clumsy automation
+* bumpy transfer of control
+* cognitive task analysis
+* cognitive work analysis
+* ecological design
+* critical decision method
+* common ground
+* directability
+* interpredictability
+* basic compact
+* work-centered design
+* macrocognition
+* naturalistic decision making
 
 
-## David Woods
 
-* [Cognitive Systems Engineering](https://www.researchgate.net/publication/289866961_Cognitive_Systems_Engineering)
-* [Cognitive Systems Engineering: New wine in new bottles] ([TWRR](https://resilienceroundup.com/issues/32/))
-* [Joint Cognitive Systems: Patterns in Cognitive Systems Engineering]
-* [Joint Cognitive Systems: Foundations of Cognitive Systems Engineering]
-* [Paradigms for Intelligent Decision Support](https://www.researchgate.net/publication/247102153_Paradigms_for_Intelligent_Decision_Support)
-
+[Ironies of automation]: https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf
+[Joint Cognitive Systems: Foundations of Cognitive Systems Engineering]: https://smile.amazon.com/Joint-Cognitive-Systems-Foundations-Engineering-dp-0367864207/dp/0367864207/ref=mt_paperback
+[Joint Cognitive Systems: Patterns in Cognitive Systems Engineering]: https://smile.amazon.com/Joint-Cognitive-Systems-Patterns-Engineering/dp/0849339332/ref=pd_sbs_14_1/135-1214741-1856166
 [Cognitive Systems Engineering: New wine in new bottles]: https://www.ida.liu.se/~729A15/mtrl/CSEnew.pdf
+[A rose by any other name...would probably be given an acronym]: https://www.researchgate.net/publication/3454029_A_rose_by_any_other_namewould_probably_be_given_an_acronym
+[Ironies of automation]: https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf
+[Ten challenges for making automation a team player]: https://ieeexplore.ieee.org/abstract/document/1363742
