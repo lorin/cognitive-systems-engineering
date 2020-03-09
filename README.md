@@ -18,7 +18,7 @@ summarizes resilience engineering papers.
 * [Information processing and human-machine interaction: an approach to cognitive engineering](https://www.amazon.com/Information-Processing-Human-Machine-Interaction-North-Holland/dp/0444009876), Rasmussen, 1986
 * [Paradigms for Intelligent Decision Support](https://www.researchgate.net/publication/247102153_Paradigms_for_Intelligent_Decision_Support), David 1986
 * [Cognitive systems engineering](https://www.amazon.com/Cognitive-Systems-Engineering-Jens-Rasmussen/dp/0471011983), Rasmussen, Pejtersen, Goodstein, 1994
-* [Cognitive work analysis: toward safe, productive, and healthy computer-baed work](https://www.amazon.com/Cognitive-Work-Analysis-Productive-Computer-Based/dp/0805823972), Vicente, 1999
+* [Cognitive work analysis: toward safe, productive, and healthy computer-based work](https://www.amazon.com/Cognitive-Work-Analysis-Productive-Computer-Based/dp/0805823972), Vicente, 1999
 * [A rose by any other name...would probably be given an acronym], Hoffman, Feltovich, Ford, Woods, 2002
 * [Work-Centered Design: A Cognitive Systems Engineering Approach To System Design](https://www.researchgate.net/publication/285542028_Work-Centered_Design_A_Cognitive_Systems_Engineering_Approach_To_System_Design), Eggleston, 2003
 * [Macrocognition](https://pdfs.semanticscholar.org/a021/62b27a52c8f4986227875a8fe5099117dc77.pdf), Klein, Ross, Moon, Klein, Hoffman, Hollnagel, 2003
