@@ -28,6 +28,7 @@ summarizes resilience engineering papers.
 * [Joint Cognitive Systems: Patterns in Cognitive Systems Engineering], Woods, Hollnagel, 2006
 * [Working minds: a practitioner's guide to cognitive task analysis](https://www.amazon.com/Working-Minds-Practitioners-Cognitive-Analysis/dp/0262532816), Crandall, Klein, Hoffman, 2006
 * [The role of cognitive systems engineering in the systems engineering design process](https://doi.org/10.1002/sys.20147), Militello, Dominguez, Lintern, Klein, 2009.
+* [Decision-centered design](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199757183.001.0001/oxfordhb-9780199757183-e-15), Militello, Klein, 2013
 
 ## People
 
@@ -66,6 +67,7 @@ summarizes resilience engineering papers.
 * directability
 * interpredictability
 * basic compact
+* decision-centered design
 * work-centered design
 * macrocognition
 * naturalistic decision making
