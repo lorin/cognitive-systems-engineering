@@ -14,9 +14,10 @@ summarizes resilience engineering papers.
 
 * [Cognitive Systems Engineering: New wine in new bottles], Hollnagel, Woods, 1982 ([TWRR](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-cognitive-systems-engineering-new-wine-in-new-bottles-issue-32-175912))
 * [Ironies of automation], Bainbridge, 1983 ([TWRR](https://resilienceroundup.com/issues/35/))
-* [Cognitive Systems Engineering](https://www.researchgate.net/publication/289866961_Cognitive_Systems_Engineering), Woods, Roth, 1988
+* [Systems with Human Monitors: A Signal Detection Analysis](https://www.researchgate.net/publication/250890631_Systems_with_Human_Monitors_A_Signal_Detection_Analysis), Sorkin, Woods, 1985
 * [Information processing and human-machine interaction: an approach to cognitive engineering](https://www.amazon.com/Information-Processing-Human-Machine-Interaction-North-Holland/dp/0444009876), Rasmussen, 1986
 * [Paradigms for Intelligent Decision Support](https://www.researchgate.net/publication/247102153_Paradigms_for_Intelligent_Decision_Support), David 1986
+* [Cognitive Systems Engineering](https://www.researchgate.net/publication/289866961_Cognitive_Systems_Engineering), Woods, Roth, 1988
 * [Cognitive systems engineering](https://www.amazon.com/Cognitive-Systems-Engineering-Jens-Rasmussen/dp/0471011983), Rasmussen, Pejtersen, Goodstein, 1994
 * [Cognitive work analysis: toward safe, productive, and healthy computer-based work](https://www.amazon.com/Cognitive-Work-Analysis-Productive-Computer-Based/dp/0805823972), Vicente, 1999
 * [A rose by any other name...would probably be given an acronym], Hoffman, Feltovich, Ford, Woods, 2002
@@ -51,6 +52,7 @@ summarizes resilience engineering papers.
 * Jens Rasmussen
 * Karol Ross
 * Emilie Roth
+* Robert Sorkin
 * Kim Vicente
 * David Woods
 
