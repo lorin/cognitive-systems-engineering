@@ -53,9 +53,11 @@ summarizes resilience engineering papers.
 * Erik Hollnagel
 * Devorah Klein
 * Gary Klein
+* Morton Lind
 * Gavan Lintern
 * Laura Militello
 * Brian Moon
+* Donald Norman
 * Annelise Mark Pejtersen
 * Jens Rasmussen
 * Karol Ross
