@@ -20,6 +20,7 @@ summarizes resilience engineering papers.
 * [Cognitive Systems Engineering](https://www.researchgate.net/publication/289866961_Cognitive_Systems_Engineering), Woods, Roth, 1988
 * [Cognitive systems engineering](https://www.amazon.com/Cognitive-Systems-Engineering-Jens-Rasmussen/dp/0471011983), Rasmussen, Pejtersen, Goodstein, 1994
 * [Cognitive work analysis: toward safe, productive, and healthy computer-based work](https://www.amazon.com/Cognitive-Work-Analysis-Productive-Computer-Based/dp/0805823972), Vicente, 1999
+* [Tem Play with a Powerful and Independent Agent: A Full-Mission Simulation Study](https://www.researchgate.net/profile/David_Woods11/publication/12195752_Team_Play_with_a_Powerful_and_Independent_Agent_A_Full-Mission_Simulation_Study/links/0a85e53beeb12cfd52000000/Team-Play-with-a-Powerful-and-Independent-Agent-A-Full-Mission-Simulation-Study.pdf), Sarter, Woods, 2000.
 * [A rose by any other name...would probably be given an acronym], Hoffman, Feltovich, Ford, Woods, 2002
 * [Work-Centered Design: A Cognitive Systems Engineering Approach To System Design](https://www.researchgate.net/publication/285542028_Work-Centered_Design_A_Cognitive_Systems_Engineering_Approach_To_System_Design), Eggleston, 2003
 * [Macrocognition](https://pdfs.semanticscholar.org/a021/62b27a52c8f4986227875a8fe5099117dc77.pdf), Klein, Ross, Moon, Klein, Hoffman, Hollnagel, 2003
@@ -28,9 +29,10 @@ summarizes resilience engineering papers.
 * [Joint Cognitive Systems: Foundations of Cognitive Systems Engineering], Hollnagel, Woods, 2005
 * [Joint Cognitive Systems: Patterns in Cognitive Systems Engineering], Woods, Hollnagel, 2006
 * [Working minds: a practitioner's guide to cognitive task analysis](https://www.amazon.com/Working-Minds-Practitioners-Cognitive-Analysis/dp/0262532816), Crandall, Klein, Hoffman, 2006
+* [Cognitive Systems Engineering: The Hype and the Hope](https://www.computer.org/csdl/magazine/co/2008/03/mco2008030095/13rRUxCRFRl), Klein, Wiggins, Deal, 2008.
 * [The role of cognitive systems engineering in the systems engineering design process](https://doi.org/10.1002/sys.20147), Militello, Dominguez, Lintern, Klein, 2009.
 * [The foundations and pragmatics of cognitive work analysis](http://www.cognitivesystemsdesign.net/Downloads/Foundations%20Early%20Pages.pdf)
-* [Decision-centered design](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199757183.001.0001/oxfordhb-9780199757183-e-15), Militello, Klein, 2013
+* [Decision-centered design](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199757183.001.0001/oxfordhb-9780199757183-e-15), Militello, Klein, 2013.
 
 ## Other resources
 
@@ -41,6 +43,7 @@ summarizes resilience engineering papers.
 * Lisanne Bainbridge
 * Jeffrey Bradshaw
 * Beth Crandall
+* Steven Deal
 * Cynthia Dominguez
 * Robert Eggleston
 * Paul Feltovich
@@ -57,9 +60,11 @@ summarizes resilience engineering papers.
 * Jens Rasmussen
 * Karol Ross
 * Emilie Roth
+* Nadine B. Sarter
 * Robert Sorkin
 * Kim Vicente
-* David Woods
+* Sterling Wiggins
+* David D. Woods
 
 ## Terms
 
