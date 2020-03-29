@@ -34,6 +34,7 @@ summarizes resilience engineering papers.
 * [The role of cognitive systems engineering in the systems engineering design process](https://doi.org/10.1002/sys.20147), Militello, Dominguez, Lintern, Klein, 2009.
 * [The foundations and pragmatics of cognitive work analysis](http://www.cognitivesystemsdesign.net/Downloads/Foundations%20Early%20Pages.pdf)
 * [Decision-centered design](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199757183.001.0001/oxfordhb-9780199757183-e-15), Militello, Klein, 2013.
+* [The Seven Deadly Myths of "Autonomous Systems"](http://www.jeffreymbradshaw.net/publications/IS-28-03-HCC_1.pdf), Bradshaw, Hoffman, Johnson, Woods, 2013.
 
 ## Other resources
 
@@ -42,7 +43,7 @@ summarizes resilience engineering papers.
 ## People
 
 * Lisanne Bainbridge
-* Jeffrey Bradshaw
+* Jeffrey M. Bradshaw
 * Beth Crandall
 * Steven Deal
 * Cynthia Dominguez
@@ -50,8 +51,9 @@ summarizes resilience engineering papers.
 * Paul Feltovich
 * Kenneth Ford
 * L.P. Goodstein
-* Robert Hoffman
+* Robert R. Hoffman
 * Erik Hollnagel
+* Matthew Johnson
 * Devorah Klein
 * Gary Klein
 * Morton Lind
