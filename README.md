@@ -32,7 +32,7 @@ summarizes resilience engineering papers.
 * [Working minds: a practitioner's guide to cognitive task analysis](https://www.amazon.com/Working-Minds-Practitioners-Cognitive-Analysis/dp/0262532816), Crandall, Klein, Hoffman, 2006
 * [Cognitive Systems Engineering: The Hype and the Hope](https://www.computer.org/csdl/magazine/co/2008/03/mco2008030095/13rRUxCRFRl), Klein, Wiggins, Deal, 2008.
 * [The role of cognitive systems engineering in the systems engineering design process](https://doi.org/10.1002/sys.20147), Militello, Dominguez, Lintern, Klein, 2009.
-* [The foundations and pragmatics of cognitive work analysis](http://www.cognitivesystemsdesign.net/Downloads/Foundations%20Early%20Pages.pdf)
+* [The foundations and pragmatics of cognitive work analysis](http://www.cognitivesystemsdesign.net/Downloads/Foundations%20Early%20Pages.pdf), Lintern, 2009.
 * [Decision-centered design](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199757183.001.0001/oxfordhb-9780199757183-e-15), Militello, Klein, 2013.
 * [The Seven Deadly Myths of "Autonomous Systems"](http://www.jeffreymbradshaw.net/publications/IS-28-03-HCC_1.pdf), Bradshaw, Hoffman, Johnson, Woods, 2013.
 
