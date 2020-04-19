@@ -21,7 +21,7 @@ summarizes resilience engineering papers.
 * [Cognitive systems engineering](https://www.amazon.com/Cognitive-Systems-Engineering-Jens-Rasmussen/dp/0471011983), Rasmussen, Pejtersen, Goodstein, 1994
 * [Sources of Power: How People Make Decisions](https://mitpress.mit.edu/books/sources-power), Klein, 1998.
 * [Cognitive work analysis: toward safe, productive, and healthy computer-based work](https://www.amazon.com/Cognitive-Work-Analysis-Productive-Computer-Based/dp/0805823972), Vicente, 1999
-* [Tem Play with a Powerful and Independent Agent: A Full-Mission Simulation Study](https://www.researchgate.net/profile/David_Woods11/publication/12195752_Team_Play_with_a_Powerful_and_Independent_Agent_A_Full-Mission_Simulation_Study/links/0a85e53beeb12cfd52000000/Team-Play-with-a-Powerful-and-Independent-Agent-A-Full-Mission-Simulation-Study.pdf), Sarter, Woods, 2000.
+* [Team Play with a Powerful and Independent Agent: A Full-Mission Simulation Study](https://www.researchgate.net/profile/David_Woods11/publication/12195752_Team_Play_with_a_Powerful_and_Independent_Agent_A_Full-Mission_Simulation_Study/links/0a85e53beeb12cfd52000000/Team-Play-with-a-Powerful-and-Independent-Agent-A-Full-Mission-Simulation-Study.pdf), Sarter, Woods, 2000.
 * [A rose by any other name...would probably be given an acronym], Hoffman, Feltovich, Ford, Woods, 2002
 * [Work-Centered Design: A Cognitive Systems Engineering Approach To System Design](https://www.researchgate.net/publication/285542028_Work-Centered_Design_A_Cognitive_Systems_Engineering_Approach_To_System_Design), Eggleston, 2003
 * [Macrocognition](https://pdfs.semanticscholar.org/a021/62b27a52c8f4986227875a8fe5099117dc77.pdf), Klein, Ross, Moon, Klein, Hoffman, Hollnagel, 2003
