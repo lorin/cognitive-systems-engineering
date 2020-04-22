@@ -35,6 +35,7 @@ summarizes resilience engineering papers.
 * [The foundations and pragmatics of cognitive work analysis](http://www.cognitivesystemsdesign.net/Downloads/Foundations%20Early%20Pages.pdf), Lintern, 2009.
 * [Decision-centered design](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199757183.001.0001/oxfordhb-9780199757183-e-15), Militello, Klein, 2013.
 * [The Seven Deadly Myths of "Autonomous Systems"](http://www.jeffreymbradshaw.net/publications/IS-28-03-HCC_1.pdf), Bradshaw, Hoffman, Johnson, Woods, 2013.
+* [Cognitive Work of Hypothesis Exploration During Anomaly Response](https://queue.acm.org/detail.cfm?id=3380778), Grayson, 2020.
 
 ## Other resources
 
@@ -44,6 +45,7 @@ summarizes resilience engineering papers.
 
 * Lisanne Bainbridge
 * Jeffrey M. Bradshaw
+* Matthieu Branlat
 * Beth Crandall
 * Steven Deal
 * Cynthia Dominguez
@@ -51,6 +53,7 @@ summarizes resilience engineering papers.
 * Paul Feltovich
 * Kenneth Ford
 * L.P. Goodstein
+* Marisa R. Grayson
 * Robert R. Hoffman
 * Erik Hollnagel
 * Matthew Johnson
@@ -58,6 +61,7 @@ summarizes resilience engineering papers.
 * Gary Klein
 * Morton Lind
 * Gavan Lintern
+* Laura Maguire
 * Laura Militello
 * Brian Moon
 * Donald Norman
