@@ -13,10 +13,13 @@ summarizes resilience engineering papers.
 ## Publications
 
 * [Cognitive Systems Engineering: New wine in new bottles], Hollnagel, Woods, 1982 ([TWRR](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-cognitive-systems-engineering-new-wine-in-new-bottles-issue-32-175912))
-* [Ironies of automation], Bainbridge, 1983 ([TWRR](https://resilienceroundup.com/issues/35/))
+* [Ironies of Automation], Bainbridge, 1983 ([TWRR](https://resilienceroundup.com/issues/35/))
 * [Systems with Human Monitors: A Signal Detection Analysis](https://www.researchgate.net/publication/250890631_Systems_with_Human_Monitors_A_Signal_Detection_Analysis), Sorkin, Woods, 1985
+* [Cognitive Technologies: The Design of Joint Human-MAchine Cognitive Systems](https://www.researchgate.net/publication/220604613_Cognitive_Technologies_The_Design_of_Joint_Human-Machine_Cognitive_Systems), Woods, 1986.
 * [Information processing and human-machine interaction: an approach to cognitive engineering](https://www.amazon.com/Information-Processing-Human-Machine-Interaction-North-Holland/dp/0444009876), Rasmussen, 1986
 * [Paradigms for Intelligent Decision Support](https://www.researchgate.net/publication/247102153_Paradigms_for_Intelligent_Decision_Support), David 1986
+* [How a Cockpit Remembers its Speeds](https://pages.ucsd.edu/~ehutchins/documents/CockpitSpeeds.pdf), Hutchins, 1995.
+* [Cognition in the Wild](https://www.amazon.com/Cognition-Wild-Bradford-Edwin-Hutchins/dp/0262581469), Hutchins, 1996.
 * [Cognitive Systems Engineering](https://www.researchgate.net/publication/289866961_Cognitive_Systems_Engineering), Woods, Roth, 1988
 * [Cognitive systems engineering](https://www.amazon.com/Cognitive-Systems-Engineering-Jens-Rasmussen/dp/0471011983), Rasmussen, Pejtersen, Goodstein, 1994
 * [Sources of Power: How People Make Decisions](https://mitpress.mit.edu/books/sources-power), Klein, 1998.
@@ -35,7 +38,7 @@ summarizes resilience engineering papers.
 * [The foundations and pragmatics of cognitive work analysis](http://www.cognitivesystemsdesign.net/Downloads/Foundations%20Early%20Pages.pdf), Lintern, 2009.
 * [Decision-centered design](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199757183.001.0001/oxfordhb-9780199757183-e-15), Militello, Klein, 2013.
 * [The Seven Deadly Myths of "Autonomous Systems"](http://www.jeffreymbradshaw.net/publications/IS-28-03-HCC_1.pdf), Bradshaw, Hoffman, Johnson, Woods, 2013.
-* [Cognitive Work of Hypothesis Exploration During Anomaly Response](https://queue.acm.org/detail.cfm?id=3380778), Grayson, 2020.
+* [Cognitive Work of Hypothesis Exploration During Anomaly Response](https://queue.acm.org/detail.cfm?id=3380778), Grayson, 2020 ([TWRR](https://resilienceroundup.com/issues/72/))
 
 ## Other resources
 
@@ -56,6 +59,7 @@ summarizes resilience engineering papers.
 * Marisa R. Grayson
 * Robert R. Hoffman
 * Erik Hollnagel
+* Edwin Hutchins
 * Matthew Johnson
 * Devorah Klein
 * Gary Klein
