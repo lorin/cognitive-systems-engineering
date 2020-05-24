@@ -18,11 +18,13 @@ summarizes resilience engineering papers.
 * [Cognitive Technologies: The Design of Joint Human-MAchine Cognitive Systems](https://www.researchgate.net/publication/220604613_Cognitive_Technologies_The_Design_of_Joint_Human-Machine_Cognitive_Systems), Woods, 1986.
 * [Information processing and human-machine interaction: an approach to cognitive engineering](https://www.amazon.com/Information-Processing-Human-Machine-Interaction-North-Holland/dp/0444009876), Rasmussen, 1986
 * [Paradigms for Intelligent Decision Support](https://www.researchgate.net/publication/247102153_Paradigms_for_Intelligent_Decision_Support), David 1986
+* [Cognitive systems engineering](https://www.amazon.com/Cognitive-Systems-Engineering-Jens-Rasmussen/dp/0471011983), Rasmussen, Pejtersen, Goodstein, 1994
 * [How a Cockpit Remembers its Speeds](https://pages.ucsd.edu/~ehutchins/documents/CockpitSpeeds.pdf), Hutchins, 1995.
 * [Cognition in the Wild](https://www.amazon.com/Cognition-Wild-Bradford-Edwin-Hutchins/dp/0262581469), Hutchins, 1996.
 * [Cognitive Systems Engineering](https://www.researchgate.net/publication/289866961_Cognitive_Systems_Engineering), Woods, Roth, 1988
-* [Cognitive systems engineering](https://www.amazon.com/Cognitive-Systems-Engineering-Jens-Rasmussen/dp/0471011983), Rasmussen, Pejtersen, Goodstein, 1994
+* [Being Bumpable], Cook, 1998.
 * [Sources of Power: How People Make Decisions](https://mitpress.mit.edu/books/sources-power), Klein, 1998.
+* [Voice Loops as Coordination Aids in Space Shuttle Mission Control], Patterson, watts-Perotti, Woods, 1999.
 * [Cognitive work analysis: toward safe, productive, and healthy computer-based work](https://www.amazon.com/Cognitive-Work-Analysis-Productive-Computer-Based/dp/0805823972), Vicente, 1999
 * [Team Play with a Powerful and Independent Agent: A Full-Mission Simulation Study](https://www.researchgate.net/profile/David_Woods11/publication/12195752_Team_Play_with_a_Powerful_and_Independent_Agent_A_Full-Mission_Simulation_Study/links/0a85e53beeb12cfd52000000/Team-Play-with-a-Powerful-and-Independent-Agent-A-Full-Mission-Simulation-Study.pdf), Sarter, Woods, 2000.
 * [A rose by any other name...would probably be given an acronym], Hoffman, Feltovich, Ford, Woods, 2002
@@ -39,6 +41,38 @@ summarizes resilience engineering papers.
 * [Decision-centered design](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199757183.001.0001/oxfordhb-9780199757183-e-15), Militello, Klein, 2013.
 * [The Seven Deadly Myths of "Autonomous Systems"](http://www.jeffreymbradshaw.net/publications/IS-28-03-HCC_1.pdf), Bradshaw, Hoffman, Johnson, Woods, 2013.
 * [Cognitive Work of Hypothesis Exploration During Anomaly Response](https://queue.acm.org/detail.cfm?id=3380778), Grayson, 2020 ([TWRR](https://resilienceroundup.com/issues/72/))
+
+
+* [Being Bumpable]: http://csel.eng.ohio-state.edu/productions/woodscta/media/beingbump.pdf
+* [Voice Loops as Coordination Aids in Space Shuttle Mission Control]: https://www.semanticscholar.org/paper/Voice-Loops-as-Coordination-Aids-in-Space-Shuttle-Patterson-Watts-Perotti/068dfee1a859a63fa2ef82f008d239e6a81ed004 
+* [How a Cockpit Remembers its Speeds]: https://pages.ucsd.edu/~ehutchins/documents/CockpitSpeeds.pdf
+
+## Case studies
+
+These papers are case studies referenced in Joint Cognitive Systems: Patterns in Cognitive Systems Engineering].
+
+### [Being Bumpable]
+
+Domain: Medical (hospital intensive care unit)
+
+Artifact: the *bed book*
+
+### [Voice Loops as Coordination Aids in Space Shuttle Mission Control]
+
+Domain: space (mission control)
+
+Artifact: voice loops
+
+### [How a Cockpit Remembers its Speeds]
+
+Domain: aviation (cockpit)
+
+Artifact: speed bugs
+
+
+
+
+
 
 ## Other resources
 
