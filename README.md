@@ -49,7 +49,7 @@ summarizes resilience engineering papers.
 
 ## Case studies
 
-These papers are case studies referenced in Joint Cognitive Systems: Patterns in Cognitive Systems Engineering].
+These papers are case studies referenced in [Joint Cognitive Systems: Patterns in Cognitive Systems Engineering].
 
 ### [Being Bumpable]
 
