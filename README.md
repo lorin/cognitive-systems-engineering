@@ -35,7 +35,7 @@ summarizes resilience engineering papers.
 * [Joint Cognitive Systems: Foundations of Cognitive Systems Engineering], Hollnagel, Woods, 2005
 * [Joint Cognitive Systems: Patterns in Cognitive Systems Engineering], Woods, Hollnagel, 2006
 * [Working minds: a practitioner's guide to cognitive task analysis](https://www.amazon.com/Working-Minds-Practitioners-Cognitive-Analysis/dp/0262532816), Crandall, Klein, Hoffman, 2006
-* [Cognitive Systems Engineering: The Hype and the Hope](https://www.computer.org/csdl/magazine/co/2008/03/mco2008030095/13rRUxCRFRl), Klein, Wiggins, Deal, 2008.
+* [Cognitive Systems Engineering: The Hype and the Hope], Klein, Wiggins, Deal, 2008.
 * [The role of cognitive systems engineering in the systems engineering design process](https://doi.org/10.1002/sys.20147), Militello, Dominguez, Lintern, Klein, 2009.
 * [The foundations and pragmatics of cognitive work analysis](http://www.cognitivesystemsdesign.net/Downloads/Foundations%20Early%20Pages.pdf), Lintern, 2009.
 * [Decision-centered design](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199757183.001.0001/oxfordhb-9780199757183-e-15), Militello, Klein, 2013.
@@ -113,21 +113,51 @@ Artifact: speed bugs
 
 ## Terms
 
-* joint cognitive systems
-* clumsy automation
+* attention
+* basic compact
 * bumpy transfer of control
+* clumsy automation
 * cognitive task analysis
 * cognitive work analysis
-* ecological design
-* critical decision method
 * common ground
+* complexity
+* critical decision method
+* coordination 
+* decision-centered design
+* demands
+* ecological design
 * directability
 * interpredictability
-* basic compact
-* decision-centered design
-* work-centered design
+* joint cognitive systems
 * macrocognition
 * naturalistic decision making
+* work-centered design
+* workload
+
+### Joint cognitive system
+
+> A cognitive system produces "intelligent action", that is, its behavior is goal oriented, based on symbol manipulation and uses knowledge of the world (heuristic knowlege) for guidance. Furthermore, a cognitive system is adaptive and able to view a problem in more than one way. A cognitive sytem operates using knowledge about itself and its environment, in the sense that it is able to *plan* and *modify* its actions on the basis of that knowledge. It is thus not only data driven, but also concept driven. Man is obviously a cognitive system. Machines are potentially if not actually, cognitive  systems. A [Man-Machine System] regarded as a whole is definitely a cognitive system.
+
+- [Cognitive Systems Engineering: New wine in new bottles], Hollnagel, Woods, 1982
+
+
+> The revised definition of a cognitive system is *a system that can modify its behavior on the basis of experience so as to achieve specific anti-entropic ends.*
+- [Joint Cognitive Systems: Foundations of Cognitive Systems Engineering], Hollnagel, Woods, 2005
+
+
+### Cognitive systems engineering
+
+> The central tenet of CSE is that a [Man-Machine System] needs to be conceived, designed, analyzed and evaluated in terms of a *cognitive system*.
+- [Cognitive Systems Engineering: New wine in new bottles], Hollnagel, Woods, 1982
+
+> We define *cognitive systems engineering* as the effort to support the cognitive requirements of work.
+- [Cognitive Systems Engineering: The Hype and the Hope], Klein, Wiggins, Deal, 2008.
+
+> The core ideas of Cognitive Systems Engineering shift the question from
+> overcoming limits to supporting adaptability and control. The base unit of
+> analysis is the Joint Cognitive System, not people versus technology; and the
+> key process to study, model and support is how people cope with complexity.
+- [Joint Cognitive Systems: Patterns in Cognitive Systems Engineering], Woods, Hollnagel, 2006
 
 
 
@@ -138,3 +168,4 @@ Artifact: speed bugs
 [A rose by any other name...would probably be given an acronym]: https://www.researchgate.net/publication/3454029_A_rose_by_any_other_namewould_probably_be_given_an_acronym
 [Ironies of automation]: https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf
 [Ten challenges for making automation a team player]: https://ieeexplore.ieee.org/abstract/document/1363742
+[Cognitive Systems Engineering: The Hype and the Hope]: https://www.computer.org/csdl/magazine/co/2008/03/mco2008030095/13rRUxCRFRl
