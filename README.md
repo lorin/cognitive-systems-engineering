@@ -43,9 +43,9 @@ summarizes resilience engineering papers.
 * [Cognitive Work of Hypothesis Exploration During Anomaly Response](https://queue.acm.org/detail.cfm?id=3380778), Grayson, 2020 ([TWRR](https://resilienceroundup.com/issues/72/))
 
 
-* [Being Bumpable]: http://csel.eng.ohio-state.edu/productions/woodscta/media/beingbump.pdf
-* [Voice Loops as Coordination Aids in Space Shuttle Mission Control]: https://www.semanticscholar.org/paper/Voice-Loops-as-Coordination-Aids-in-Space-Shuttle-Patterson-Watts-Perotti/068dfee1a859a63fa2ef82f008d239e6a81ed004 
-* [How a Cockpit Remembers its Speeds]: https://pages.ucsd.edu/~ehutchins/documents/CockpitSpeeds.pdf
+[Being Bumpable]: http://csel.eng.ohio-state.edu/productions/woodscta/media/beingbump.pdf
+[Voice Loops as Coordination Aids in Space Shuttle Mission Control]: https://www.semanticscholar.org/paper/Voice-Loops-as-Coordination-Aids-in-Space-Shuttle-Patterson-Watts-Perotti/068dfee1a859a63fa2ef82f008d239e6a81ed004 
+[How a Cockpit Remembers its Speeds]: https://pages.ucsd.edu/~ehutchins/documents/CockpitSpeeds.pdf
 
 ## Case studies
 
@@ -68,8 +68,6 @@ Artifact: voice loops
 Domain: aviation (cockpit)
 
 Artifact: speed bugs
-
-
 
 
 
