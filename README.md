@@ -40,12 +40,10 @@ summarizes resilience engineering papers.
 * [The foundations and pragmatics of cognitive work analysis](http://www.cognitivesystemsdesign.net/Downloads/Foundations%20Early%20Pages.pdf), Lintern, 2009.
 * [Decision-centered design](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199757183.001.0001/oxfordhb-9780199757183-e-15), Militello, Klein, 2013.
 * [The Seven Deadly Myths of "Autonomous Systems"](http://www.jeffreymbradshaw.net/publications/IS-28-03-HCC_1.pdf), Bradshaw, Hoffman, Johnson, Woods, 2013.
+* [Cognitive Systems Engineering: The Future for a Changing World], Smith, Hoffman, eds., 2019.
 * [Cognitive Work of Hypothesis Exploration During Anomaly Response](https://queue.acm.org/detail.cfm?id=3380778), Grayson, 2020 ([TWRR](https://resilienceroundup.com/issues/72/))
 
 
-[Being Bumpable]: http://csel.eng.ohio-state.edu/productions/woodscta/media/beingbump.pdf
-[Voice Loops as Coordination Aids in Space Shuttle Mission Control]: https://www.semanticscholar.org/paper/Voice-Loops-as-Coordination-Aids-in-Space-Shuttle-Patterson-Watts-Perotti/068dfee1a859a63fa2ef82f008d239e6a81ed004 
-[How a Cockpit Remembers its Speeds]: https://pages.ucsd.edu/~ehutchins/documents/CockpitSpeeds.pdf
 
 ## Case studies
 
@@ -144,6 +142,8 @@ Artifact: speed bugs
 > The revised definition of a cognitive system is *a system that can modify its behavior on the basis of experience so as to achieve specific anti-entropic ends.*
 - [Joint Cognitive Systems: Foundations of Cognitive Systems Engineering], Hollnagel, Woods, 2005
 
+> Hollangel, Roth, and I were looking at a new kind of system―an emergent system that rises in the interactions among (1) the demands the world imposes on cognitive work, (2) the interplay of multiple agents who do cognitive wokr (joint and distributed cognition), and (3) the properties of teha rtifacts, reprsentations, and tools that enable cognitive work.
+- On the Origins of Cognitive Systems Engineering: Personal Reflections, in [Cognitive Systems Engineering: The Future for a Changing World], Woods, 2019.
 
 ### Cognitive systems engineering
 
@@ -159,6 +159,9 @@ Artifact: speed bugs
 > key process to study, model and support is how people cope with complexity.
 - [Joint Cognitive Systems: Patterns in Cognitive Systems Engineering], Woods, Hollnagel, 2006
 
+> Though it was never written down in this way, I still maintain today that the cores kill of an effective cognitive systems engineer is the ability to design problems that challenge the boundaries of plans, procedures, and technologies. And the inverse holds as well. All plans, procedures, adn technologies have bounds; these are hard to find and they move around over time; plus designers ovestestaimte the range of situations the artifacts they create can handle.
+- On the Origins of Cognitive Systems Engineering: Personal Reflections, in [Cognitive Systems Engineering: The Future for a Changing World], Woods, 2019.
+
 
 
 [Ironies of automation]: https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf
@@ -169,3 +172,7 @@ Artifact: speed bugs
 [Ironies of automation]: https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf
 [Ten challenges for making automation a team player]: https://ieeexplore.ieee.org/abstract/document/1363742
 [Cognitive Systems Engineering: The Hype and the Hope]: https://www.computer.org/csdl/magazine/co/2008/03/mco2008030095/13rRUxCRFRl
+[Being Bumpable]: http://csel.eng.ohio-state.edu/productions/woodscta/media/beingbump.pdf
+[Voice Loops as Coordination Aids in Space Shuttle Mission Control]: https://www.semanticscholar.org/paper/Voice-Loops-as-Coordination-Aids-in-Space-Shuttle-Patterson-Watts-Perotti/068dfee1a859a63fa2ef82f008d239e6a81ed004 
+[How a Cockpit Remembers its Speeds]: https://pages.ucsd.edu/~ehutchins/documents/CockpitSpeeds.pdf
+[Cognitive Systems Engineering: The Future for a Changing World]: https://www.routledge.com/Cognitive-Systems-Engineering-The-Future-for-a-Changing-World-1st-Edition/Smith-Hoffman/p/book/9780367879402
