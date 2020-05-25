@@ -10,6 +10,49 @@ Some papers have a ([TWRR](http://resilienceroundup.com)) link next to them. Thi
 stands for Thai Wood's [Resilience Roundup](http://resilienceroundup.com). Thai publishes a newsletter that
 summarizes resilience engineering papers.
 
+## Definitions
+
+### Joint cognitive system
+
+> A cognitive system produces "intelligent action", that is, its behavior is goal oriented, based on symbol manipulation and uses knowledge of the world (heuristic knowlege) for guidance. Furthermore, a cognitive system is adaptive and able to view a problem in more than one way. A cognitive sytem operates using knowledge about itself and its environment, in the sense that it is able to *plan* and *modify* its actions on the basis of that knowledge. It is thus not only data driven, but also concept driven. Man is obviously a cognitive system. Machines are potentially if not actually, cognitive  systems. A [Man-Machine System] regarded as a whole is definitely a cognitive system.
+
+- [Cognitive Systems Engineering: New wine in new bottles], Hollnagel, Woods, 1982
+
+
+> The revised definition of a cognitive system is *a system that can modify its behavior on the basis of experience so as to achieve specific anti-entropic ends.*
+- [Joint Cognitive Systems: Foundations of Cognitive Systems Engineering], Hollnagel, Woods, 2005
+
+> Hollangel, Roth, and I were looking at a new kind of system―an emergent system
+> that rises in the interactions among (1) the demands the world imposes on
+> cognitive work, (2) the interplay of multiple agents who do cognitive work
+> (joint and distributed cognition), and (3) the properties of the artifacts,
+> reprsentations, and tools that enable cognitive work.
+- On the Origins of Cognitive Systems Engineering: Personal Reflections, in
+  [Cognitive Systems Engineering: The Future for a Changing World], Woods, 2019.
+
+### Cognitive systems engineering
+
+> The central tenet of CSE is that a [Man-Machine System] needs to be conceived, designed, analyzed and evaluated in terms of a *cognitive system*.
+- [Cognitive Systems Engineering: New wine in new bottles], Hollnagel, Woods, 1982
+
+> We define *cognitive systems engineering* as the effort to support the cognitive requirements of work.
+- [Cognitive Systems Engineering: The Hype and the Hope], Klein, Wiggins, Deal, 2008.
+
+> The core ideas of Cognitive Systems Engineering shift the question from
+> overcoming limits to supporting adaptability and control. The base unit of
+ analysis is the Joint Cognitive System, not people versus technology; and the
+> key process to study, model and support is how people cope with complexity.
+- [Joint Cognitive Systems: Patterns in Cognitive Systems Engineering], Woods, Hollnagel, 2006
+
+> Though it was never written down in this way, I still maintain today that the
+> core of an effective cognitive systems engineer is the ability to design
+> problems that challenge the boundaries of plans, procedures, and technologies.
+> And the inverse holds as well. All plans, procedures, adn technologies have
+> bounds; these are hard to find and they move around over time; plus designers
+> ovestestaimte the range of situations the artifacts they create can handle.
+- On the Origins of Cognitive Systems Engineering: Personal Reflections, in
+  [Cognitive Systems Engineering: The Future for a Changing World], Woods, 2019.
+
 ## Publications
 
 * [Cognitive Systems Engineering: New wine in new bottles], Hollnagel, Woods, 1982 ([TWRR](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-cognitive-systems-engineering-new-wine-in-new-bottles-issue-32-175912))
@@ -132,46 +175,6 @@ Artifact: speed bugs
 * work-centered design
 * workload
 
-### Joint cognitive system
-
-> A cognitive system produces "intelligent action", that is, its behavior is goal oriented, based on symbol manipulation and uses knowledge of the world (heuristic knowlege) for guidance. Furthermore, a cognitive system is adaptive and able to view a problem in more than one way. A cognitive sytem operates using knowledge about itself and its environment, in the sense that it is able to *plan* and *modify* its actions on the basis of that knowledge. It is thus not only data driven, but also concept driven. Man is obviously a cognitive system. Machines are potentially if not actually, cognitive  systems. A [Man-Machine System] regarded as a whole is definitely a cognitive system.
-
-- [Cognitive Systems Engineering: New wine in new bottles], Hollnagel, Woods, 1982
-
-
-> The revised definition of a cognitive system is *a system that can modify its behavior on the basis of experience so as to achieve specific anti-entropic ends.*
-- [Joint Cognitive Systems: Foundations of Cognitive Systems Engineering], Hollnagel, Woods, 2005
-
-> Hollangel, Roth, and I were looking at a new kind of system―an emergent system
-> that rises in the interactions among (1) the demands the world imposes on
-> cognitive work, (2) the interplay of multiple agents who do cognitive wokr
-> (joint and distributed cognition), and (3) the properties of the artifacts,
-> reprsentations, and tools that enable cognitive work.
-- On the Origins of Cognitive Systems Engineering: Personal Reflections, in
-  [Cognitive Systems Engineering: The Future for a Changing World], Woods, 2019.
-
-### Cognitive systems engineering
-
-> The central tenet of CSE is that a [Man-Machine System] needs to be conceived, designed, analyzed and evaluated in terms of a *cognitive system*.
-- [Cognitive Systems Engineering: New wine in new bottles], Hollnagel, Woods, 1982
-
-> We define *cognitive systems engineering* as the effort to support the cognitive requirements of work.
-- [Cognitive Systems Engineering: The Hype and the Hope], Klein, Wiggins, Deal, 2008.
-
-> The core ideas of Cognitive Systems Engineering shift the question from
-> overcoming limits to supporting adaptability and control. The base unit of
- analysis is the Joint Cognitive System, not people versus technology; and the
-> key process to study, model and support is how people cope with complexity.
-- [Joint Cognitive Systems: Patterns in Cognitive Systems Engineering], Woods, Hollnagel, 2006
-
-> Though it was never written down in this way, I still maintain today that the
-> core of an effective cognitive systems engineer is the ability to design
-> problems that challenge the boundaries of plans, procedures, and technologies.
-> And the inverse holds as well. All plans, procedures, adn technologies have
-> bounds; these are hard to find and they move around over time; plus designers
-> ovestestaimte the range of situations the artifacts they create can handle.
-- On the Origins of Cognitive Systems Engineering: Personal Reflections, in
-  [Cognitive Systems Engineering: The Future for a Changing World], Woods, 2019.
 
 
 [Ironies of automation]: https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf
