@@ -86,6 +86,9 @@ summarizes resilience engineering papers.
 * [Cognitive Systems Engineering: The Future for a Changing World], Smith, Hoffman, eds., 2019.
 * [Cognitive Work of Hypothesis Exploration During Anomaly Response](https://queue.acm.org/detail.cfm?id=3380778), Grayson, 2020 ([TWRR](https://resilienceroundup.com/issues/72/))
 
+## Videos
+
+[Lectures on the study of cognitive work](https://vimeo.com/showcase/6184024) by R.I. Cook.
 
 
 ## Case studies
