@@ -142,8 +142,13 @@ Artifact: speed bugs
 > The revised definition of a cognitive system is *a system that can modify its behavior on the basis of experience so as to achieve specific anti-entropic ends.*
 - [Joint Cognitive Systems: Foundations of Cognitive Systems Engineering], Hollnagel, Woods, 2005
 
-> Hollangel, Roth, and I were looking at a new kind of system―an emergent system that rises in the interactions among (1) the demands the world imposes on cognitive work, (2) the interplay of multiple agents who do cognitive wokr (joint and distributed cognition), and (3) the properties of teha rtifacts, reprsentations, and tools that enable cognitive work.
-- On the Origins of Cognitive Systems Engineering: Personal Reflections, in [Cognitive Systems Engineering: The Future for a Changing World], Woods, 2019.
+> Hollangel, Roth, and I were looking at a new kind of system―an emergent system
+> that rises in the interactions among (1) the demands the world imposes on
+> cognitive work, (2) the interplay of multiple agents who do cognitive wokr
+> (joint and distributed cognition), and (3) the properties of the artifacts,
+> reprsentations, and tools that enable cognitive work.
+- On the Origins of Cognitive Systems Engineering: Personal Reflections, in
+  [Cognitive Systems Engineering: The Future for a Changing World], Woods, 2019.
 
 ### Cognitive systems engineering
 
@@ -155,11 +160,11 @@ Artifact: speed bugs
 
 > The core ideas of Cognitive Systems Engineering shift the question from
 > overcoming limits to supporting adaptability and control. The base unit of
-> analysis is the Joint Cognitive System, not people versus technology; and the
+ analysis is the Joint Cognitive System, not people versus technology; and the
 > key process to study, model and support is how people cope with complexity.
 - [Joint Cognitive Systems: Patterns in Cognitive Systems Engineering], Woods, Hollnagel, 2006
 
-> Though it was never written down in this way, I still maintain today that the cores kill of an effective cognitive systems engineer is the ability to design problems that challenge the boundaries of plans, procedures, and technologies. And the inverse holds as well. All plans, procedures, adn technologies have bounds; these are hard to find and they move around over time; plus designers ovestestaimte the range of situations the artifacts they create can handle.
+> Though it was never written down in this way, I still maintain today that the core skill of an effective cognitive systems engineer is the ability to design problems that challenge the boundaries of plans, procedures, and technologies. And the inverse holds as well. All plans, procedures, adn technologies have bounds; these are hard to find and they move around over time; plus designers ovestestaimte the range of situations the artifacts they create can handle.
 - On the Origins of Cognitive Systems Engineering: Personal Reflections, in [Cognitive Systems Engineering: The Future for a Changing World], Woods, 2019.
 
 
