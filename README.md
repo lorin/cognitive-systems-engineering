@@ -55,6 +55,7 @@ summarizes resilience engineering papers.
 
 ## Publications
 
+* [Notes on human performance analysis](https://backend.orbit.dtu.dk/ws/portalfiles/portal/88561089/ris_m_2285.pdf), Hollnagel, Pederson, Rasmussen, 1981
 * [Cognitive Systems Engineering: New wine in new bottles], Hollnagel, Woods, 1982 ([TWRR](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-cognitive-systems-engineering-new-wine-in-new-bottles-issue-32-175912))
 * [Ironies of Automation], Bainbridge, 1983 ([TWRR](https://resilienceroundup.com/issues/35/))
 * [Systems with Human Monitors: A Signal Detection Analysis](https://www.researchgate.net/publication/250890631_Systems_with_Human_Monitors_A_Signal_Detection_Analysis), Sorkin, Woods, 1985
