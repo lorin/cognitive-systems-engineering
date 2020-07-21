@@ -132,6 +132,20 @@ From *Joint Cognitive Systems: Patterns of Cognitive Systems Engineering* by Woo
 * How do I stop this machine from doing this?
 * Unless you stare at it, changes can creep in.
 
+
+### Info we can get from stories
+
+From *Working Minds* by Crandall, Klein, and Hoffman, p70
+
+* The cues and paterns that experts perceive
+* The rules of thumbs they have devised
+* The kinds of decisions they have to make
+* The features that make decisions tough
+* The features that make cases typical
+* The features of rare cases
+
+
+
 ### Levels of Supervisory Control
 
 From *To Intervene or not to Intervene: The Dilemma of Management by Exception* by Dekker and Woods:
