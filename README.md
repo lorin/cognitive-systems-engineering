@@ -162,6 +162,7 @@ The subordinate:
 * Matthieu Branlat
 * Beth Crandall
 * Steven Deal
+* Sidney Dekker
 * Cynthia Dominguez
 * Robert Eggleston
 * Paul Feltovich
