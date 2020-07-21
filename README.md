@@ -47,7 +47,7 @@ summarizes resilience engineering papers.
 > Though it was never written down in this way, I still maintain today that the
 > core of an effective cognitive systems engineer is the ability to design
 > problems that challenge the boundaries of plans, procedures, and technologies.
-> And the inverse holds as well. All plans, procedures, adn technologies have
+> And the inverse holds as well. All plans, procedures, and technologies have
 > bounds; these are hard to find and they move around over time; plus designers
 > ovestestaimte the range of situations the artifacts they create can handle.
 - On the Origins of Cognitive Systems Engineering: Personal Reflections, in
@@ -62,6 +62,7 @@ summarizes resilience engineering papers.
 * [Cognitive Technologies: The Design of Joint Human-Machine Cognitive Systems](https://www.researchgate.net/publication/220604613_Cognitive_Technologies_The_Design_of_Joint_Human-Machine_Cognitive_Systems), Woods, 1986.
 * [Information processing and human-machine interaction: an approach to cognitive engineering](https://www.amazon.com/Information-Processing-Human-Machine-Interaction-North-Holland/dp/0444009876), Rasmussen, 1986
 * [Paradigms for Intelligent Decision Support](https://www.researchgate.net/publication/247102153_Paradigms_for_Intelligent_Decision_Support), David 1986
+* [Ecological interfaces: a technological imperative in high tech systems](https://core.ac.uk/download/pdf/13788397.pdf), Vicente, Rasmussen, 1990.
 * [Cognitive systems engineering](https://www.amazon.com/Cognitive-Systems-Engineering-Jens-Rasmussen/dp/0471011983), Rasmussen, Pejtersen, Goodstein, 1994
 * [How a Cockpit Remembers its Speeds](https://pages.ucsd.edu/~ehutchins/documents/CockpitSpeeds.pdf), Hutchins, 1995.
 * [Cognition in the Wild](https://www.amazon.com/Cognition-Wild-Bradford-Edwin-Hutchins/dp/0262581469), Hutchins, 1996.
@@ -70,6 +71,7 @@ summarizes resilience engineering papers.
 * [Sources of Power: How People Make Decisions](https://mitpress.mit.edu/books/sources-power), Klein, 1998.
 * [Voice Loops as Coordination Aids in Space Shuttle Mission Control], Patterson, watts-Perotti, Woods, 1999.
 * [Cognitive work analysis: toward safe, productive, and healthy computer-based work](https://www.amazon.com/Cognitive-Work-Analysis-Productive-Computer-Based/dp/0805823972), Vicente, 1999
+* [To Intervene or not to Intervene: The Dilemma of Management by Exception](http://www.humanfactors.lth.se/fileadmin/lusa/Sidney_Dekker/articles/2002_and_before/InterveneOrNotCTW1999.pdf), Dekker, Woods, 1999.
 * [Team Play with a Powerful and Independent Agent: A Full-Mission Simulation Study](https://www.researchgate.net/profile/David_Woods11/publication/12195752_Team_Play_with_a_Powerful_and_Independent_Agent_A_Full-Mission_Simulation_Study/links/0a85e53beeb12cfd52000000/Team-Play-with-a-Powerful-and-Independent-Agent-A-Full-Mission-Simulation-Study.pdf), Sarter, Woods, 2000.
 * [A rose by any other name...would probably be given an acronym], Hoffman, Feltovich, Ford, Woods, 2002
 * [Work-Centered Design: A Cognitive Systems Engineering Approach To System Design](https://www.researchgate.net/publication/285542028_Work-Centered_Design_A_Cognitive_Systems_Engineering_Approach_To_System_Design), Eggleston, 2003
@@ -114,6 +116,38 @@ Domain: aviation (cockpit)
 
 Artifact: speed bugs
 
+
+## Concepts
+
+### Questions operators ask about systems
+
+From *Joint Cognitive Systems: Patterns of Cognitive Systems Engineering* by Woods and Hollnagel (p119)
+
+* What is it doing now?
+* What will it do next?
+* How did it get into this mode?
+* Why did it do this?
+* Stop interrupting me while I am busy.
+* I know there is some way to get it to do what I want.
+* How do I stop this machine from doing this?
+* Unless you stare at it, changes can creep in.
+
+### Levels of Supervisory Control
+
+From *To Intervene or not to Intervene: The Dilemma of Management by Exception* by Dekker and Woods:
+
+The subordinate:
+
+1. offers no assistance: human supervisor must do it all;
+2. offers a complete set of action alternatives, and
+3. narrows the selectiond own to a few, or
+4. suggests one, or
+5. executes the suggestion if the supervisor approves, or
+6. allows the supervisor a restricted time to veto before automatic excecution, or
+7. executes automatically, then necessarily informs the supervisor, or
+8. informs them after execution only if they ask, or
+9. informs them after execution if the subordinate decides to
+10. decides everything and acts autonomously, ignoring the supervisor.
 
 
 
