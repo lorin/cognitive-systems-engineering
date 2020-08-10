@@ -63,21 +63,27 @@ summarizes resilience engineering papers.
 * [Information processing and human-machine interaction: an approach to cognitive engineering](https://www.amazon.com/Information-Processing-Human-Machine-Interaction-North-Holland/dp/0444009876), Rasmussen, 1986
 * [Paradigms for Intelligent Decision Support](https://www.researchgate.net/publication/247102153_Paradigms_for_Intelligent_Decision_Support), David 1986
 * [Ecological interfaces: a technological imperative in high tech systems](https://core.ac.uk/download/pdf/13788397.pdf), Vicente, Rasmussen, 1990.
+* [Cognition in the Head and in the World: An Introduction to the Special Issue on Situated Action](https://www.sciencedirect.com/science/article/abs/pii/S0364021305900001), Norman, 1993.
 * [Cognitive systems engineering](https://www.amazon.com/Cognitive-Systems-Engineering-Jens-Rasmussen/dp/0471011983), Rasmussen, Pejtersen, Goodstein, 1994
 * [How a Cockpit Remembers its Speeds](https://pages.ucsd.edu/~ehutchins/documents/CockpitSpeeds.pdf), Hutchins, 1995.
 * [Cognition in the Wild](https://www.amazon.com/Cognition-Wild-Bradford-Edwin-Hutchins/dp/0262581469), Hutchins, 1996.
 * [Cognitive Systems Engineering](https://www.researchgate.net/publication/289866961_Cognitive_Systems_Engineering), Woods, Roth, 1988
 * [Being Bumpable], Cook, 1998.
 * [Sources of Power: How People Make Decisions](https://mitpress.mit.edu/books/sources-power), Klein, 1998.
+* [Cognitive Systems Engineering: Putting Things in Context](https://corescholar.libraries.wright.edu/psychology/330/), Flach, 1998.
 * [Voice Loops as Coordination Aids in Space Shuttle Mission Control], Patterson, watts-Perotti, Woods, 1999.
 * [Cognitive work analysis: toward safe, productive, and healthy computer-based work](https://www.amazon.com/Cognitive-Work-Analysis-Productive-Computer-Based/dp/0805823972), Vicente, 1999
 * [To Intervene or not to Intervene: The Dilemma of Management by Exception](http://www.humanfactors.lth.se/fileadmin/lusa/Sidney_Dekker/articles/2002_and_before/InterveneOrNotCTW1999.pdf), Dekker, Woods, 1999.
 * [Team Play with a Powerful and Independent Agent: A Full-Mission Simulation Study](https://www.researchgate.net/profile/David_Woods11/publication/12195752_Team_Play_with_a_Powerful_and_Independent_Agent_A_Full-Mission_Simulation_Study/links/0a85e53beeb12cfd52000000/Team-Play-with-a-Powerful-and-Independent-Agent-A-Full-Mission-Simulation-Study.pdf), Sarter, Woods, 2000.
+* [Cognitive Engineering: Issues in User-Centered System Design](https://www.researchgate.net/publication/2801690_Cognitive_Engineering_Issues_in_User-Centered_System_Design), Roth, Patterson, Mumnaw, 2000.
+* [Distributed Cognition: Toward a New Foundation for Human-Computer Interaction Research](https://www.lri.fr/~mbl/Stanford/CS477/papers/DistributedCognition-TOCHI.pdf), Hollan, Hutchins, Kirsh, 2000.
 * [A rose by any other name...would probably be given an acronym], Hoffman, Feltovich, Ford, Woods, 2002
 * [Work-Centered Design: A Cognitive Systems Engineering Approach To System Design](https://www.researchgate.net/publication/285542028_Work-Centered_Design_A_Cognitive_Systems_Engineering_Approach_To_System_Design), Eggleston, 2003
 * [Macrocognition](https://pdfs.semanticscholar.org/a021/62b27a52c8f4986227875a8fe5099117dc77.pdf), Klein, Ross, Moon, Klein, Hoffman, Hollnagel, 2003
 * [Common Ground and Coordination in Joint Activity](http://jeffreymbradshaw.net/publications/Common_Ground_Single.pdf), Klein, Feltovich, Bradshaw, Woods, 2004.
+* [The Messy Details: Insights From the Study of Technical Work in Healthcare](https://ieeexplore.ieee.org/document/1344116), Nemeth, Cook, Woods, 2004.
 * [Ten challenges for making automation a team player] ([TWRR](https://resilienceroundup.com/issues/66))
+* [Designing for joint cognitive systems](https://www.researchgate.net/publication/4213914_Designing_for_joint_cognitive_systems), Hollnagel, 2005.
 * [Joint Cognitive Systems: Foundations of Cognitive Systems Engineering], Hollnagel, Woods, 2005
 * [Joint Cognitive Systems: Patterns in Cognitive Systems Engineering], Woods, Hollnagel, 2006
 * [Working minds: a practitioner's guide to cognitive task analysis](https://www.amazon.com/Working-Minds-Practitioners-Cognitive-Analysis/dp/0262532816), Crandall, Klein, Hoffman, 2006
@@ -86,6 +92,7 @@ summarizes resilience engineering papers.
 * [The foundations and pragmatics of cognitive work analysis](http://www.cognitivesystemsdesign.net/Downloads/Foundations%20Early%20Pages.pdf), Lintern, 2009.
 * [Decision-centered design](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199757183.001.0001/oxfordhb-9780199757183-e-15), Militello, Klein, 2013.
 * [The Seven Deadly Myths of "Autonomous Systems"](http://www.jeffreymbradshaw.net/publications/IS-28-03-HCC_1.pdf), Bradshaw, Hoffman, Johnson, Woods, 2013.
+* The Cambridge Handbook of Expertise and Expert Performance, Ericsson, Hoffman, Kozbelt, Williams, eds., 2nd ed., 2018.
 * [Cognitive Systems Engineering: The Future for a Changing World], Smith, Hoffman, eds., 2019.
 * [Cognitive Work of Hypothesis Exploration During Anomaly Response](https://queue.acm.org/detail.cfm?id=3380778), Grayson, 2020 ([TWRR](https://resilienceroundup.com/issues/72/))
 
