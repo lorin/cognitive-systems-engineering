@@ -144,7 +144,7 @@ From *Joint Cognitive Systems: Patterns of Cognitive Systems Engineering* by Woo
 
 From *Working Minds* by Crandall, Klein, and Hoffman, p70
 
-* The cues and paterns that experts perceive
+* The cues and patterns that experts perceive
 * The rules of thumbs they have devised
 * The kinds of decisions they have to make
 * The features that make decisions tough
