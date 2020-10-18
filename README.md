@@ -80,6 +80,7 @@ summarizes resilience engineering papers.
 * [A rose by any other name...would probably be given an acronym], Hoffman, Feltovich, Ford, Woods, 2002
 * [Work-Centered Design: A Cognitive Systems Engineering Approach To System Design](https://www.researchgate.net/publication/285542028_Work-Centered_Design_A_Cognitive_Systems_Engineering_Approach_To_System_Design), Eggleston, 2003
 * [Macrocognition](https://pdfs.semanticscholar.org/a021/62b27a52c8f4986227875a8fe5099117dc77.pdf), Klein, Ross, Moon, Klein, Hoffman, Hollnagel, 2003
+* [Discovering How Distributed Cognitive Systems Work](https://www.researchgate.net/publication/251196422_Discovering_How_Distributed_Cognitive_Systems_Work), Woods, 2003
 * [Common Ground and Coordination in Joint Activity](http://jeffreymbradshaw.net/publications/Common_Ground_Single.pdf), Klein, Feltovich, Bradshaw, Woods, 2004.
 * [The Messy Details: Insights From the Study of Technical Work in Healthcare](https://ieeexplore.ieee.org/document/1344116), Nemeth, Cook, Woods, 2004.
 * [Ten challenges for making automation a team player] ([TWRR](https://resilienceroundup.com/issues/66))
