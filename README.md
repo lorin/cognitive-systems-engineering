@@ -63,6 +63,7 @@ summarizes resilience engineering papers.
 * [Information processing and human-machine interaction: an approach to cognitive engineering](https://www.amazon.com/Information-Processing-Human-Machine-Interaction-North-Holland/dp/0444009876), Rasmussen, 1986
 * [Paradigms for Intelligent Decision Support](https://www.researchgate.net/publication/247102153_Paradigms_for_Intelligent_Decision_Support), David 1986
 * [Ecological interfaces: a technological imperative in high tech systems](https://core.ac.uk/download/pdf/13788397.pdf), Vicente, Rasmussen, 1990.
+* [Flexible Sketches and Inflexible Data Bases: Visual Communication, Conscription Devices, and Boundary Objects in Design Engineering](https://doi.org/10.1177/016224399101600402), Henderson, 1991.
 * [Cognition in the Head and in the World: An Introduction to the Special Issue on Situated Action](https://www.sciencedirect.com/science/article/abs/pii/S0364021305900001), Norman, 1993.
 * [Cognitive systems engineering](https://www.amazon.com/Cognitive-Systems-Engineering-Jens-Rasmussen/dp/0471011983), Rasmussen, Pejtersen, Goodstein, 1994
 * [How a Cockpit Remembers its Speeds](https://pages.ucsd.edu/~ehutchins/documents/CockpitSpeeds.pdf), Hutchins, 1995.
@@ -74,6 +75,7 @@ summarizes resilience engineering papers.
 * [Voice Loops as Coordination Aids in Space Shuttle Mission Control], Patterson, watts-Perotti, Woods, 1999.
 * [Cognitive work analysis: toward safe, productive, and healthy computer-based work](https://www.amazon.com/Cognitive-Work-Analysis-Productive-Computer-Based/dp/0805823972), Vicente, 1999
 * [To Intervene or not to Intervene: The Dilemma of Management by Exception](http://www.humanfactors.lth.se/fileadmin/lusa/Sidney_Dekker/articles/2002_and_before/InterveneOrNotCTW1999.pdf), Dekker, Woods, 1999.
+* [On Line and On Paper: Visual Representations, Visual Culture, and Computer Graphics in Design Engineering](https://mitpress.mit.edu/books/line-and-paper), Henderson, 1999
 * [Team Play with a Powerful and Independent Agent: A Full-Mission Simulation Study](https://www.researchgate.net/profile/David_Woods11/publication/12195752_Team_Play_with_a_Powerful_and_Independent_Agent_A_Full-Mission_Simulation_Study/links/0a85e53beeb12cfd52000000/Team-Play-with-a-Powerful-and-Independent-Agent-A-Full-Mission-Simulation-Study.pdf), Sarter, Woods, 2000.
 * [Cognitive Engineering: Issues in User-Centered System Design](https://www.researchgate.net/publication/2801690_Cognitive_Engineering_Issues_in_User-Centered_System_Design), Roth, Patterson, Mumnaw, 2000.
 * [Distributed Cognition: Toward a New Foundation for Human-Computer Interaction Research](https://www.lri.fr/~mbl/Stanford/CS477/papers/DistributedCognition-TOCHI.pdf), Hollan, Hutchins, Kirsh, 2000.
