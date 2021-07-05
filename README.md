@@ -53,6 +53,11 @@ summarizes resilience engineering papers.
 - On the Origins of Cognitive Systems Engineering: Personal Reflections, in
   [Cognitive Systems Engineering: The Future for a Changing World], Woods, 2019.
 
+## Videos
+
+[Lectures on the study of cognitive work](https://vimeo.com/showcase/6184024) by R.I. Cook.
+
+
 ## Publications
 
 * [Notes on human performance analysis](https://backend.orbit.dtu.dk/ws/portalfiles/portal/88561089/ris_m_2285.pdf), Hollnagel, Pederson, Rasmussen, 1981
@@ -99,10 +104,6 @@ summarizes resilience engineering papers.
 * The Cambridge Handbook of Expertise and Expert Performance, Ericsson, Hoffman, Kozbelt, Williams, eds., 2nd ed., 2018.
 * [Cognitive Systems Engineering: The Future for a Changing World], Smith, Hoffman, eds., 2019.
 * [Cognitive Work of Hypothesis Exploration During Anomaly Response](https://queue.acm.org/detail.cfm?id=3380778), Grayson, 2020 ([TWRR](https://resilienceroundup.com/issues/72/))
-
-## Videos
-
-[Lectures on the study of cognitive work](https://vimeo.com/showcase/6184024) by R.I. Cook.
 
 
 ## Case studies
