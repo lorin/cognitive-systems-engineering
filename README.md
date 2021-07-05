@@ -55,7 +55,7 @@ summarizes resilience engineering papers.
 
 ## Videos
 
-[Lectures on the study of cognitive work](https://vimeo.com/showcase/6184024) by R.I. Cook.
+[Lectures on the study of cognitive work](https://vimeo.com/showcase/6184024) by R.I. Cook. (My notes are at https://github.com/lorin/cook-lectures-notes)
 
 
 ## Publications
