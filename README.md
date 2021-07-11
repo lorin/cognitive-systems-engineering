@@ -63,6 +63,7 @@ summarizes resilience engineering papers.
 * [Notes on human performance analysis](https://backend.orbit.dtu.dk/ws/portalfiles/portal/88561089/ris_m_2285.pdf), Hollnagel, Pederson, Rasmussen, 1981
 * [Cognitive Systems Engineering: New wine in new bottles], Hollnagel, Woods, 1982 ([TWRR](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-cognitive-systems-engineering-new-wine-in-new-bottles-issue-32-175912))
 * [Ironies of Automation], Bainbridge, 1983 ([TWRR](https://resilienceroundup.com/issues/35/))
+* [Visual momentum: a concept to improve the cognitive coupling of person and computer](https://www.researchgate.net/profile/David-Woods-19/publication/222737388_Visual_Momentum_A_Concept_to_Improve_the_Cognitive_Coupling_of_Person_and_Computer/links/5ab24696458515ecebedcb42/Visual-Momentum-A-Concept-to-Improve-the-Cognitive-Coupling-of-Person-and-Computer.pdf), Woods, 1984.
 * [Systems with Human Monitors: A Signal Detection Analysis](https://www.researchgate.net/publication/250890631_Systems_with_Human_Monitors_A_Signal_Detection_Analysis), Sorkin, Woods, 1985
 * [Cognitive Technologies: The Design of Joint Human-Machine Cognitive Systems](https://www.researchgate.net/publication/220604613_Cognitive_Technologies_The_Design_of_Joint_Human-Machine_Cognitive_Systems), Woods, 1986.
 * [Information processing and human-machine interaction: an approach to cognitive engineering](https://www.amazon.com/Information-Processing-Human-Machine-Interaction-North-Holland/dp/0444009876), Rasmussen, 1986
