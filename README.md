@@ -185,6 +185,12 @@ The subordinate:
 
 * [cognitivesystemsdesign.net](http://www.cognitivesystemsdesign.net/) by Gavan Lintern
 
+## Journals
+
+* [Cognition, Technology & Work](https://www.springer.com/journal/10111)
+* [International Journal of Human-Computer Studies](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies)
+* [Computer Supported Cooperative Work (CSCW)](https://www.springer.com/journal/10606)
+
 ## People
 
 * Lisanne Bainbridge
