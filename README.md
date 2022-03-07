@@ -255,7 +255,7 @@ The subordinate:
 [Ironies of automation]: https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf
 [Joint Cognitive Systems: Foundations of Cognitive Systems Engineering]: https://smile.amazon.com/Joint-Cognitive-Systems-Foundations-Engineering-dp-0367864207/dp/0367864207/ref=mt_paperback
 [Joint Cognitive Systems: Patterns in Cognitive Systems Engineering]: https://smile.amazon.com/Joint-Cognitive-Systems-Patterns-Engineering/dp/0849339332/ref=pd_sbs_14_1/135-1214741-1856166
-[Cognitive Systems Engineering: New wine in new bottles]: https://www.ida.liu.se/~729A15/mtrl/CSEnew.pdf
+[Cognitive Systems Engineering: New wine in new bottles]: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.458.2247&rep=rep1&type=pdf
 [A rose by any other name...would probably be given an acronym]: https://www.researchgate.net/publication/3454029_A_rose_by_any_other_namewould_probably_be_given_an_acronym
 [Ironies of automation]: https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf
 [Ten challenges for making automation a team player]: https://ieeexplore.ieee.org/abstract/document/1363742
