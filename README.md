@@ -2,7 +2,7 @@
 
 This page lists resesarch papers in the field of cognitive systems engineering. 
 
-Many cogntive engineering researchers went on to do work in the field of
+Many cognitive engineering researchers went on to do work in the field of
 resilience engineering. See <http://resiliencepapers.club> for resilience
 engineering papers.
 
