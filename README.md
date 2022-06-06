@@ -79,6 +79,7 @@ summarizes resilience engineering papers.
 * [Being Bumpable], Cook, 1998.
 * [Sources of Power: How People Make Decisions](https://mitpress.mit.edu/books/sources-power), Klein, 1998.
 * [Cognitive Systems Engineering: Putting Things in Context](https://corescholar.libraries.wright.edu/psychology/330/), Flach, 1998.
+* [Designs are hypotheses about how artifacts shape cognition and collaboration](https://www.researchgate.net/publication/233304084_Commentary_Designs_are_hypotheses_about_how_artifacts_shape_cognition_and_collaboration), Woods, 1998
 * [Voice Loops as Coordination Aids in Space Shuttle Mission Control], Patterson, watts-Perotti, Woods, 1999.
 * [Cognitive work analysis: toward safe, productive, and healthy computer-based work](https://www.amazon.com/Cognitive-Work-Analysis-Productive-Computer-Based/dp/0805823972), Vicente, 1999
 * [To Intervene or not to Intervene: The Dilemma of Management by Exception](http://www.humanfactors.lth.se/fileadmin/lusa/Sidney_Dekker/articles/2002_and_before/InterveneOrNotCTW1999.pdf), Dekker, Woods, 1999.
