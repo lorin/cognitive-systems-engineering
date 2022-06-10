@@ -1,6 +1,6 @@
 # Cognitive Systems Engineering
 
-This page lists resesarch papers in the field of cognitive systems engineering. 
+This page lists resesarch papers in the field of cognitive systems engineering.
 
 Many cognitive engineering researchers went on to do work in the field of
 resilience engineering. See <http://resiliencepapers.club> for resilience
@@ -60,6 +60,7 @@ summarizes resilience engineering papers.
 
 ## Publications
 
+* [Coping wtih complexity](https://backend.orbit.dtu.dk/ws/portalfiles/portal/55672721/ris_m_2293.pdf), Rasmussen, Lind, 1981
 * [Notes on human performance analysis](https://backend.orbit.dtu.dk/ws/portalfiles/portal/88561089/ris_m_2285.pdf), Hollnagel, Pederson, Rasmussen, 1981
 * [Cognitive Systems Engineering: New wine in new bottles], Hollnagel, Woods, 1982 ([TWRR](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-cognitive-systems-engineering-new-wine-in-new-bottles-issue-32-175912))
 * [Ironies of Automation], Bainbridge, 1983 ([TWRR](https://resilienceroundup.com/issues/35/))
@@ -239,7 +240,7 @@ The subordinate:
 * common ground
 * complexity
 * critical decision method
-* coordination 
+* coordination
 * decision-centered design
 * demands
 * ecological design
@@ -262,6 +263,6 @@ The subordinate:
 [Ten challenges for making automation a team player]: https://ieeexplore.ieee.org/abstract/document/1363742
 [Cognitive Systems Engineering: The Hype and the Hope]: https://www.computer.org/csdl/magazine/co/2008/03/mco2008030095/13rRUxCRFRl
 [Being Bumpable]: http://csel.eng.ohio-state.edu/productions/woodscta/media/beingbump.pdf
-[Voice Loops as Coordination Aids in Space Shuttle Mission Control]: https://www.semanticscholar.org/paper/Voice-Loops-as-Coordination-Aids-in-Space-Shuttle-Patterson-Watts-Perotti/068dfee1a859a63fa2ef82f008d239e6a81ed004 
+[Voice Loops as Coordination Aids in Space Shuttle Mission Control]: https://www.semanticscholar.org/paper/Voice-Loops-as-Coordination-Aids-in-Space-Shuttle-Patterson-Watts-Perotti/068dfee1a859a63fa2ef82f008d239e6a81ed004
 [How a Cockpit Remembers its Speeds]: https://pages.ucsd.edu/~ehutchins/documents/CockpitSpeeds.pdf
 [Cognitive Systems Engineering: The Future for a Changing World]: https://www.routledge.com/Cognitive-Systems-Engineering-The-Future-for-a-Changing-World-1st-Edition/Smith-Hoffman/p/book/9780367879402
