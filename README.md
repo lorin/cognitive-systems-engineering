@@ -74,6 +74,7 @@ summarizes resilience engineering papers.
 * [Cognition in the Head and in the World: An Introduction to the Special Issue on Situated Action](https://www.sciencedirect.com/science/article/abs/pii/S0364021305900001), Norman, 1993.
 * [Cognitive systems engineering](https://www.amazon.com/Cognitive-Systems-Engineering-Jens-Rasmussen/dp/0471011983), Rasmussen, Pejtersen, Goodstein, 1994
 * [How a Cockpit Remembers its Speeds](https://pages.ucsd.edu/~ehutchins/documents/CockpitSpeeds.pdf), Hutchins, 1995.
+* [Cognitive demands and activities in dynamic fault management: abductive reasoning and disturbance management](https://www.researchgate.net/publication/262401824_Cognitive_demands_and_activities_in_dynamic_fault_management_abductive_reasoning_and_disturbance_management), Woods, 1995.
 * [Cognition in the Wild](https://www.amazon.com/Cognition-Wild-Bradford-Edwin-Hutchins/dp/0262581469), Hutchins, 1996.
 * [Issue of expert flexibility in contexts characterized by complexity and change](https://www.researchgate.net/publication/232465540_Issue_of_expert_flexibility_in_contexts_characterized_by_complexity_and_change), Feltovich, Spiro, Coulson, 1997.
 * [Cognitive Systems Engineering](https://www.researchgate.net/publication/289866961_Cognitive_Systems_Engineering), Woods, Roth, 1988
