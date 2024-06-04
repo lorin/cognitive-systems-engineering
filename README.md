@@ -71,6 +71,7 @@ summarizes resilience engineering papers.
 * [Paradigms for Intelligent Decision Support](https://www.researchgate.net/publication/247102153_Paradigms_for_Intelligent_Decision_Support), David 1986
 * [Ecological interfaces: a technological imperative in high tech systems](https://core.ac.uk/download/pdf/13788397.pdf), Vicente, Rasmussen, 1990.
 * [Flexible Sketches and Inflexible Data Bases: Visual Communication, Conscription Devices, and Boundary Objects in Design Engineering](https://doi.org/10.1177/016224399101600402), Henderson, 1991.
+* [The Cognitive Engineering of Problem Representations](https://www.researchgate.net/publication/242501648_The_Cognitive_Engineering_of_Problem_Representations), Woods, 1991.
 * [Cognition in the Head and in the World: An Introduction to the Special Issue on Situated Action](https://www.sciencedirect.com/science/article/abs/pii/S0364021305900001), Norman, 1993.
 * [Cognitive systems engineering](https://www.amazon.com/Cognitive-Systems-Engineering-Jens-Rasmussen/dp/0471011983), Rasmussen, Pejtersen, Goodstein, 1994
 * [How a Cockpit Remembers its Speeds](https://pages.ucsd.edu/~ehutchins/documents/CockpitSpeeds.pdf), Hutchins, 1995.
