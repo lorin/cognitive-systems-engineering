@@ -69,6 +69,7 @@ summarizes resilience engineering papers.
 * [Cognitive Technologies: The Design of Joint Human-Machine Cognitive Systems](https://www.researchgate.net/publication/220604613_Cognitive_Technologies_The_Design_of_Joint_Human-Machine_Cognitive_Systems), Woods, 1986.
 * [Information processing and human-machine interaction: an approach to cognitive engineering](https://www.amazon.com/Information-Processing-Human-Machine-Interaction-North-Holland/dp/0444009876), Rasmussen, 1986
 * [Paradigms for Intelligent Decision Support](https://www.researchgate.net/publication/247102153_Paradigms_for_Intelligent_Decision_Support), David 1986
+* [Coping with human errors through system design: Implications for ecological interface design](https://www.sciencedirect.com/science/article/abs/pii/002073738990014X), Rasmussen, Vicente, 1989.
 * [Ecological interfaces: a technological imperative in high tech systems](https://core.ac.uk/download/pdf/13788397.pdf), Vicente, Rasmussen, 1990.
 * [Flexible Sketches and Inflexible Data Bases: Visual Communication, Conscription Devices, and Boundary Objects in Design Engineering](https://doi.org/10.1177/016224399101600402), Henderson, 1991.
 * [The Cognitive Engineering of Problem Representations](https://www.researchgate.net/publication/242501648_The_Cognitive_Engineering_of_Problem_Representations), Woods, 1991.
@@ -109,6 +110,7 @@ summarizes resilience engineering papers.
 * [The foundations and pragmatics of cognitive work analysis](http://www.cognitivesystemsdesign.net/Downloads/Foundations%20Early%20Pages.pdf), Lintern, 2009.
 * [Decision-centered design](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199757183.001.0001/oxfordhb-9780199757183-e-15), Militello, Klein, 2013.
 * [The Seven Deadly Myths of "Autonomous Systems"](http://www.jeffreymbradshaw.net/publications/IS-28-03-HCC_1.pdf), Bradshaw, Hoffman, Johnson, Woods, 2013.
+* [Ecological Interface Design Two Decades On: Whatever Happened to the SRK Taxonomy?](https://www.researchgate.net/publication/273485752_Ecological_Interface_Design_Two_Decades_On_Whatever_Happened_to_the_SRK_Taxonomy), Mcilory, Stanton, 2015
 * The Cambridge Handbook of Expertise and Expert Performance, Ericsson, Hoffman, Kozbelt, Williams, eds., 2nd ed., 2018.
 * [Cognitive Systems Engineering: The Future for a Changing World], Smith, Hoffman, eds., 2019.
 * [Cognitive Work of Hypothesis Exploration During Anomaly Response](https://queue.acm.org/detail.cfm?id=3380778), Grayson, 2020 ([TWRR](https://resilienceroundup.com/issues/72/))
