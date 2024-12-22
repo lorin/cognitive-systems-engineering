@@ -59,11 +59,12 @@ summarizes resilience engineering papers.
 
 
 ## Publications
-* [Mental procedures in real-life tasks: a case study of electronic trouble shooting](https://www.tandfonline.com/doi/abs/10.1080/00140137408931355), Rasmussen, Jensen, 1974
-* [Coping wtih complexity](https://backend.orbit.dtu.dk/ws/portalfiles/portal/55672721/ris_m_2293.pdf), Rasmussen, Lind, 1981
-* [Notes on human performance analysis](https://backend.orbit.dtu.dk/ws/portalfiles/portal/88561089/ris_m_2285.pdf), Hollnagel, Pederson, Rasmussen, 1981
+* [Mental procedures in real-life tasks: a case study of electronic trouble shooting](https://www.tandfonline.com/doi/abs/10.1080/00140137408931355), Rasmussen, Jensen, 1974.
+* [Coping wtih complexity](https://backend.orbit.dtu.dk/ws/portalfiles/portal/55672721/ris_m_2293.pdf), Rasmussen, Lind, 1981.
+* [Notes on human performance analysis](https://backend.orbit.dtu.dk/ws/portalfiles/portal/88561089/ris_m_2285.pdf), Hollnagel, Pederson, Rasmussen, 1981.
 * [Cognitive Systems Engineering: New wine in new bottles], Hollnagel, Woods, 1982 ([TWRR](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-cognitive-systems-engineering-new-wine-in-new-bottles-issue-32-175912))
 * [Ironies of Automation], Bainbridge, 1983 ([TWRR](https://resilienceroundup.com/issues/35/))
+* [Skills, Rules, and Knowledge; Signals, Signs, and Symbols, and other Distinctions in Human Performance Models](https://www.iwolm.com/wp-content/downloads/SkillsRulesAndKnowledge-Rasmussen.pdf), Rasmussen, 1983.
 * [Visual momentum: a concept to improve the cognitive coupling of person and computer](https://www.researchgate.net/profile/David-Woods-19/publication/222737388_Visual_Momentum_A_Concept_to_Improve_the_Cognitive_Coupling_of_Person_and_Computer/links/5ab24696458515ecebedcb42/Visual-Momentum-A-Concept-to-Improve-the-Cognitive-Coupling-of-Person-and-Computer.pdf), Woods, 1984.
 * [Systems with Human Monitors: A Signal Detection Analysis](https://www.researchgate.net/publication/250890631_Systems_with_Human_Monitors_A_Signal_Detection_Analysis), Sorkin, Woods, 1985
 * [Cognitive Technologies: The Design of Joint Human-Machine Cognitive Systems](https://www.researchgate.net/publication/220604613_Cognitive_Technologies_The_Design_of_Joint_Human-Machine_Cognitive_Systems), Woods, 1986.
@@ -73,6 +74,7 @@ summarizes resilience engineering papers.
 * [Ecological interfaces: a technological imperative in high tech systems](https://core.ac.uk/download/pdf/13788397.pdf), Vicente, Rasmussen, 1990.
 * [Flexible Sketches and Inflexible Data Bases: Visual Communication, Conscription Devices, and Boundary Objects in Design Engineering](https://doi.org/10.1177/016224399101600402), Henderson, 1991.
 * [The Cognitive Engineering of Problem Representations](https://www.researchgate.net/publication/242501648_The_Cognitive_Engineering_of_Problem_Representations), Woods, 1991.
+* [Ecological Interface Design: Theoretical Foundations](https://backend.orbit.dtu.dk/ws/portalfiles/portal/158017888/SMC.PDF), Vincente, Rasmussen, 1992.
 * [Cognition in the Head and in the World: An Introduction to the Special Issue on Situated Action](https://www.sciencedirect.com/science/article/abs/pii/S0364021305900001), Norman, 1993.
 * [Cognitive systems engineering](https://www.amazon.com/Cognitive-Systems-Engineering-Jens-Rasmussen/dp/0471011983), Rasmussen, Pejtersen, Goodstein, 1994
 * [How a Cockpit Remembers its Speeds](https://pages.ucsd.edu/~ehutchins/documents/CockpitSpeeds.pdf), Hutchins, 1995.
