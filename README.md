@@ -59,7 +59,7 @@ summarizes resilience engineering papers.
 
 
 ## Publications
-
+* [Mental procedures in real-life tasks: a case study of electronic trouble shooting](https://www.tandfonline.com/doi/abs/10.1080/00140137408931355), Rasmussen, Jensen, 1974
 * [Coping wtih complexity](https://backend.orbit.dtu.dk/ws/portalfiles/portal/55672721/ris_m_2293.pdf), Rasmussen, Lind, 1981
 * [Notes on human performance analysis](https://backend.orbit.dtu.dk/ws/portalfiles/portal/88561089/ris_m_2285.pdf), Hollnagel, Pederson, Rasmussen, 1981
 * [Cognitive Systems Engineering: New wine in new bottles], Hollnagel, Woods, 1982 ([TWRR](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-cognitive-systems-engineering-new-wine-in-new-bottles-issue-32-175912))
