@@ -59,6 +59,9 @@ summarizes resilience engineering papers.
 
 
 ## Publications
+
+These are arranged chronologically.
+
 * [Mental procedures in real-life tasks: a case study of electronic trouble shooting](https://www.tandfonline.com/doi/abs/10.1080/00140137408931355), Rasmussen, Jensen, 1974.
 * [Coping with complexity](https://backend.orbit.dtu.dk/ws/portalfiles/portal/55672721/ris_m_2293.pdf), Rasmussen, Lind, 1981.
 * [Notes on human performance analysis](https://backend.orbit.dtu.dk/ws/portalfiles/portal/88561089/ris_m_2285.pdf), Hollnagel, Pederson, Rasmussen, 1981.
@@ -70,6 +73,7 @@ summarizes resilience engineering papers.
 * [Cognitive Technologies: The Design of Joint Human-Machine Cognitive Systems](https://www.researchgate.net/publication/220604613_Cognitive_Technologies_The_Design_of_Joint_Human-Machine_Cognitive_Systems), Woods, 1986.
 * [Information processing and human-machine interaction: an approach to cognitive engineering](https://www.amazon.com/Information-Processing-Human-Machine-Interaction-North-Holland/dp/0444009876), Rasmussen, 1986
 * [Paradigms for Intelligent Decision Support](https://www.researchgate.net/publication/247102153_Paradigms_for_Intelligent_Decision_Support), David 1986
+* [Cognitive Systems Engineering](https://www.researchgate.net/publication/289866961_Cognitive_Systems_Engineering), Woods, Roth, 1988
 * [Coping with human errors through system design: Implications for ecological interface design](https://www.sciencedirect.com/science/article/abs/pii/002073738990014X), Rasmussen, Vicente, 1989.
 * [Ecological interfaces: a technological imperative in high tech systems](https://core.ac.uk/download/pdf/13788397.pdf), Vicente, Rasmussen, 1990.
 * [Flexible Sketches and Inflexible Data Bases: Visual Communication, Conscription Devices, and Boundary Objects in Design Engineering](https://doi.org/10.1177/016224399101600402), Henderson, 1991.
@@ -82,7 +86,6 @@ summarizes resilience engineering papers.
 * [The Alarm problem and directed attention in dynamic fault management](https://www.researchgate.net/publication/40961767_The_Alarm_problem_and_directed_attention_in_dynamic_fault_management), Woods, 1995.
 * [Cognition in the Wild](https://www.amazon.com/Cognition-Wild-Bradford-Edwin-Hutchins/dp/0262581469), Hutchins, 1996.
 * [Issue of expert flexibility in contexts characterized by complexity and change](https://www.researchgate.net/publication/232465540_Issue_of_expert_flexibility_in_contexts_characterized_by_complexity_and_change), Feltovich, Spiro, Coulson, 1997.
-* [Cognitive Systems Engineering](https://www.researchgate.net/publication/289866961_Cognitive_Systems_Engineering), Woods, Roth, 1988
 * [Being Bumpable], Cook, 1998.
 * [Sources of Power: How People Make Decisions](https://mitpress.mit.edu/books/sources-power), Klein, 1998.
 * [Cognitive Systems Engineering: Putting Things in Context](https://corescholar.libraries.wright.edu/psychology/330/), Flach, 1998.
