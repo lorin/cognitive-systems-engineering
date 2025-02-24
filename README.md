@@ -80,6 +80,7 @@ These are arranged chronologically.
 * [The Cognitive Engineering of Problem Representations](https://www.researchgate.net/publication/242501648_The_Cognitive_Engineering_of_Problem_Representations), Woods, 1991.
 * [Ecological Interface Design: Theoretical Foundations](https://backend.orbit.dtu.dk/ws/portalfiles/portal/158017888/SMC.PDF), Vincente, Rasmussen, 1992.
 * [Cognition in the Head and in the World: An Introduction to the Special Issue on Situated Action](https://www.sciencedirect.com/science/article/abs/pii/S0364021305900001), Norman, 1993.
+* [Diagnostic reasoning in action](https://ieeexplore.ieee.org/document/247883), Rasmussen, 1993.
 * [Cognitive systems engineering](https://www.amazon.com/Cognitive-Systems-Engineering-Jens-Rasmussen/dp/0471011983), Rasmussen, Pejtersen, Goodstein, 1994
 * [How a Cockpit Remembers its Speeds](https://pages.ucsd.edu/~ehutchins/documents/CockpitSpeeds.pdf), Hutchins, 1995.
 * [Cognitive demands and activities in dynamic fault management: abductive reasoning and disturbance management](https://www.researchgate.net/publication/262401824_Cognitive_demands_and_activities_in_dynamic_fault_management_abductive_reasoning_and_disturbance_management), Woods, 1995.
