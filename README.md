@@ -122,6 +122,7 @@ These are arranged chronologically.
 * The Cambridge Handbook of Expertise and Expert Performance, Ericsson, Hoffman, Kozbelt, Williams, eds., 2nd ed., 2018.
 * [Cognitive Systems Engineering: The Future for a Changing World], Smith, Hoffman, eds., 2019.
 * [Cognitive Work of Hypothesis Exploration During Anomaly Response](https://queue.acm.org/detail.cfm?id=3380778), Grayson, 2020 ([TWRR](https://resilienceroundup.com/issues/72/))
+* [Towards Joint Activity Design Heuristics: Essentials for Human-Machine Teaming](https://journals.sagepub.com/doi/10.1177/21695067231193646), Morey, Walli, Cassidy, Tewani, Reynolds, Malone, Jalaeian, Rayo, McGeorge, 2023.
 
 
 ## Case studies
