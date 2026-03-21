@@ -89,6 +89,7 @@ These are arranged chronologically.
 * [The Alarm problem and directed attention in dynamic fault management](https://www.researchgate.net/publication/40961767_The_Alarm_problem_and_directed_attention_in_dynamic_fault_management), Woods, 1995.
 * [Cognition in the Wild](https://www.amazon.com/Cognition-Wild-Bradford-Edwin-Hutchins/dp/0262581469), Hutchins, 1996.
 * [Issue of expert flexibility in contexts characterized by complexity and change](https://www.researchgate.net/publication/232465540_Issue_of_expert_flexibility_in_contexts_characterized_by_complexity_and_change), Feltovich, Spiro, Coulson, 1997.
+* [How Not to Have to Navigate Through Too Many Displays](https://www.researchgate.net/publication/239030256_How_Not_to_Have_to_Navigate_Through_Too_Many_Displays), Woods, Watts‐Englert, 1997.
 * [Being Bumpable], Cook, 1998.
 * [Sources of Power: How People Make Decisions](https://mitpress.mit.edu/books/sources-power), Klein, 1998.
 * [Cognitive Systems Engineering: Putting Things in Context](https://corescholar.libraries.wright.edu/psychology/330/), Flach, 1998.
