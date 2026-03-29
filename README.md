@@ -109,7 +109,8 @@ These are arranged chronologically.
 * [Common Ground and Coordination in Joint Activity](http://jeffreymbradshaw.net/publications/Common_Ground_Single.pdf), Klein, Feltovich, Bradshaw, Woods, 2004.
 * [The Messy Details: Insights From the Study of Technical Work in Healthcare](https://ieeexplore.ieee.org/document/1344116), Nemeth, Cook, Woods, 2004.
 * [Using Cognitive Artifacts to Understand Distributed Cognition](https://ieeexplore.ieee.org/document/1344121), Nemeth, Cook, O'Connor, Klock, 2004.
-* [Ten challenges for making automation a team player] ([TWRR](https://resilienceroundup.com/issues/66))
+* [Ten challenges for making automation a team player], Klein, Woods, Bradshaw, Hoffman, Feltovitch, 2004. ([TWRR](https://resilienceroundup.com/issues/66))
+* [Toward a Theory of Complex and Cognitive Systems](https://www.researchgate.net/publication/3454245_Toward_a_Theory_of_Complex_and_Cognitive_Systems), Hoffman, Woods, 2005.
 * [Inventing the Future of Cognitive Work: Navigating the "Northwest Passage."](https://www.researchgate.net/publication/228668738_Inventing_the_Future_of_Cognitive_Work_Navigating_the_Northwest_Passage), Roesler, Woods, Feil, 2005.
 * [Designing for joint cognitive systems](https://www.researchgate.net/publication/4213914_Designing_for_joint_cognitive_systems), Hollnagel, 2005.
 * [Joint Cognitive Systems: Foundations of Cognitive Systems Engineering], Hollnagel, Woods, 2005
