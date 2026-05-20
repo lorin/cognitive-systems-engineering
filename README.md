@@ -1,6 +1,6 @@
 # Cognitive Systems Engineering
 
-This page lists resesarch papers in the field of cognitive systems engineering.
+This page lists research papers in the field of cognitive systems engineering.
 
 Many cognitive engineering researchers went on to do work in the field of
 resilience engineering. See <http://resiliencepapers.club> for resilience
@@ -14,7 +14,7 @@ summarizes resilience engineering papers.
 
 ### Joint cognitive system
 
-> A cognitive system produces "intelligent action", that is, its behavior is goal oriented, based on symbol manipulation and uses knowledge of the world (heuristic knowlege) for guidance. Furthermore, a cognitive system is adaptive and able to view a problem in more than one way. A cognitive sytem operates using knowledge about itself and its environment, in the sense that it is able to *plan* and *modify* its actions on the basis of that knowledge. It is thus not only data driven, but also concept driven. Man is obviously a cognitive system. Machines are potentially if not actually, cognitive  systems. A [Man-Machine System] regarded as a whole is definitely a cognitive system.
+> A cognitive system produces "intelligent action", that is, its behavior is goal oriented, based on symbol manipulation and uses knowledge of the world (heuristic knowledge) for guidance. Furthermore, a cognitive system is adaptive and able to view a problem in more than one way. A cognitive system operates using knowledge about itself and its environment, in the sense that it is able to *plan* and *modify* its actions on the basis of that knowledge. It is thus not only data driven, but also concept driven. Man is obviously a cognitive system. Machines are potentially if not actually, cognitive  systems. A [Man-Machine System] regarded as a whole is definitely a cognitive system.
 
 - [Cognitive Systems Engineering: New wine in new bottles], Hollnagel, Woods, 1982
 
@@ -26,7 +26,7 @@ summarizes resilience engineering papers.
 > that rises in the interactions among (1) the demands the world imposes on
 > cognitive work, (2) the interplay of multiple agents who do cognitive work
 > (joint and distributed cognition), and (3) the properties of the artifacts,
-> reprsentations, and tools that enable cognitive work.
+> representations, and tools that enable cognitive work.
 - On the Origins of Cognitive Systems Engineering: Personal Reflections, in
   [Cognitive Systems Engineering: The Future for a Changing World], Woods, 2019.
 
@@ -49,7 +49,7 @@ summarizes resilience engineering papers.
 > problems that challenge the boundaries of plans, procedures, and technologies.
 > And the inverse holds as well. All plans, procedures, and technologies have
 > bounds; these are hard to find and they move around over time; plus designers
-> ovestestaimte the range of situations the artifacts they create can handle.
+> overestimate the range of situations the artifacts they create can handle.
 - On the Origins of Cognitive Systems Engineering: Personal Reflections, in
   [Cognitive Systems Engineering: The Future for a Changing World], Woods, 2019.
 
@@ -188,10 +188,10 @@ The subordinate:
 
 1. offers no assistance: human supervisor must do it all;
 2. offers a complete set of action alternatives, and
-3. narrows the selectiond own to a few, or
+3. narrows the selection down to a few, or
 4. suggests one, or
 5. executes the suggestion if the supervisor approves, or
-6. allows the supervisor a restricted time to veto before automatic excecution, or
+6. allows the supervisor a restricted time to veto before automatic execution, or
 7. executes automatically, then necessarily informs the supervisor, or
 8. informs them after execution only if they ask, or
 9. informs them after execution if the subordinate decides to
