@@ -275,7 +275,7 @@ The subordinate:
 * [Adaptive Capacity Labs](https://www.adaptivecapacitylabs.com/)
 * [Trace Cognitive Engineering](https://www.tracecognitive.com/)
 * [Mile 2](https://miletwo.us)
-
+* [MITRE](https://mitre.org)
 
 [Ironies of automation]: https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf
 [Joint Cognitive Systems: Foundations of Cognitive Systems Engineering]: https://smile.amazon.com/Joint-Cognitive-Systems-Foundations-Engineering-dp-0367864207/dp/0367864207/ref=mt_paperback
