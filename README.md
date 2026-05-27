@@ -201,6 +201,7 @@ The subordinate:
 
 ## Other resources
 
+* [Cognitive Systems Engineering: From Information Processing to Meaning Processing](https://perspicacityll.wpengine.com/2018/02/15/cognitive-systems-engineering-from-information-processing-to-meaning-processing/) by John Flach
 * [cognitivesystemsdesign.net](http://www.cognitivesystemsdesign.net/) by Gavan Lintern
 
 ## Journals
@@ -220,6 +221,7 @@ The subordinate:
 * Cynthia Dominguez
 * Robert Eggleston
 * Paul Feltovich
+* John Flach
 * Kenneth Ford
 * L.P. Goodstein
 * Marisa R. Grayson
@@ -268,6 +270,11 @@ The subordinate:
 * work-centered design
 * workload
 
+## Companies with cognitive systems engineering expertise
+
+* [Adaptive Capacity Labs](https://www.adaptivecapacitylabs.com/)
+* [Trace Cognitive Engineering](https://www.tracecognitive.com/)
+* [Mile 2](https://miletwo.us)
 
 
 [Ironies of automation]: https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf
