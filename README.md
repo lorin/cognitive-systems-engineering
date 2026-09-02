@@ -55,7 +55,7 @@ summarizes resilience engineering papers.
 
 ## Videos
 
-* [Lectures on the study of cognitive work](https://vimeo.com/showcase/6184024) by R.I. Cook. (My notes are at https://github.com/lorin/cook-lectures-notes)
+* [Lectures on the study of cognitive work](https://www.youtube.com/playlist?list=PLb1aZTnPf3-OEU1by77zZQQYckvXUGmNY) by R.I. Cook. (My notes are at https://github.com/lorin/cook-lectures-notes)
 * [Workshop: Fundamentals of Joint Cognitive Systems ](https://youtu.be/jOmMJ0HJUOg?si=0032dMYeOsdpG1Vc) by Laura Maguire and John Allspaw, RubyConf 2021
 
 
