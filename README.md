@@ -102,6 +102,7 @@ These are arranged chronologically.
 * [Cognitive Engineering: Issues in User-Centered System Design](https://www.researchgate.net/publication/2801690_Cognitive_Engineering_Issues_in_User-Centered_System_Design), Roth, Patterson, Mumnaw, 2000.
 * [Distributed Cognition: Toward a New Foundation for Human-Computer Interaction Research](https://www.lri.fr/~mbl/Stanford/CS477/papers/DistributedCognition-TOCHI.pdf), Hollan, Hutchins, Kirsh, 2000.
 * [A rose by any other name...would probably be given an acronym], Hoffman, Feltovich, Ford, Woods, 2002
+* [Can We Ever Escape from Data Overload? A Cognitive Systems Diagnosis](https://www.researchgate.net/publication/225705546_Can_We_Ever_Escape_from_Data_Overload_A_Cognitive_Systems_Diagnosis), Woods, Patterson, Roth, 2002
 * [Work-Centered Design: A Cognitive Systems Engineering Approach To System Design](https://www.researchgate.net/publication/285542028_Work-Centered_Design_A_Cognitive_Systems_Engineering_Approach_To_System_Design), Eggleston, 2003
 * [Macrocognition](https://pdfs.semanticscholar.org/a021/62b27a52c8f4986227875a8fe5099117dc77.pdf), Klein, Ross, Moon, Klein, Hoffman, Hollnagel, 2003
 * [Discovering How Distributed Cognitive Systems Work](https://www.researchgate.net/publication/251196422_Discovering_How_Distributed_Cognitive_Systems_Work), Woods, 2003
